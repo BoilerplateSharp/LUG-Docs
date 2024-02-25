@@ -1,9 +1,9 @@
 ---
 title: Einleitung
 description: Ein kurzer Überblick zu AstroJS
-next: 
-- link: /astro/projektstruktur
-- label: Übersicht zur Projektstruktur
+next:
+  link: /astro/projektstruktur
+  label: Übersicht zur Projektstruktur
 ---
 
 # 🤔Was Ist Astro?
