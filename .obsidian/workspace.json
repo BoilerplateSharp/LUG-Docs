@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Slide Template 1.md",
+                "file": "astro/Interaktive Inseln.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Slide Template 1.md",
+                "file": "astro/Interaktive Inseln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Slide Template 1.md",
+                "file": "astro/Interaktive Inseln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Slide Template 1.md"
+                "file": "astro/Interaktive Inseln.md"
               }
             }
           }
@@ -152,24 +152,24 @@
   },
   "active": "3b605913dcb0e75e",
   "lastOpenFiles": [
-    "attachments/mein_schutzpatron.png",
-    "astro/Interaktive Inseln.md",
     "astro/Komponenten.md",
-    "astro/Projektstruktur.md",
     "astro/Projektinitialisierung.md",
-    "astro/Einleitung.md",
-    "templates/Default Template.md",
-    "start/start.mdx",
+    "astro/Projektstruktur.md",
     "index.mdx",
     "templates/Slide Template 1.md",
+    "templates/Default Template.md",
+    "start/start.mdx",
+    "start/overview.md",
+    "start/contribution.md",
+    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "attachments/mein_schutzpatron.png",
+    "astro/Interaktive Inseln.md",
+    "astro/Einleitung.md",
     "templates/tpl-footer.md",
     "templates/notes",
     "templates/slides",
     "drafts/Untitled.mdx",
-    "start/overview.md",
-    "start/contribution.md",
     "attachments/index.mdx",
-    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
     "start",
     "astro",
     "Astro/Projektstruktur.md",

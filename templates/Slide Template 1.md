@@ -1,3 +1,9 @@
+---
+title: Slide Template 1
+description: Ein simples Layout für neue Docs
+---
+
+
 <grid drag="100 20" drop="top"  bg="rgb(50, 50, 150)" style="border-radius: 1rem;" >
 # LUG-Learn <!-- element style="color: rgb(200,20,150);" -->
 </grid>
