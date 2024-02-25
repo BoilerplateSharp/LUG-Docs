@@ -11,5 +11,6 @@
   "strictLineBreaks": false,
   "propertiesInDocument": "source",
   "showLineNumber": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "useTab": false
 }
