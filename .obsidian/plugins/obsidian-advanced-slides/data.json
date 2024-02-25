@@ -1,0 +1,21 @@
+{
+  "port": "3001",
+  "autoReload": true,
+  "exportDirectory": "slides",
+  "enableChalkboard": false,
+  "enableOverview": true,
+  "enableMenu": true,
+  "enablePointer": true,
+  "enableTimeBar": true,
+  "theme": "black",
+  "highlightTheme": "monokai",
+  "transition": "slide",
+  "transitionSpeed": "fast",
+  "controls": true,
+  "progress": true,
+  "slideNumber": true,
+  "showGrid": false,
+  "autoComplete": "inPreview",
+  "paneMode": "split",
+  "motm": "2024-02-25T19:38:04.625Z"
+}

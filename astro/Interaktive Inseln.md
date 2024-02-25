@@ -1,6 +1,12 @@
 ---
 title: Interaktive Inseln
 description: Interaktive Komponenten auf einer statischen HTML-Seite
+prev:
+  label: Zurück Text
+  link: /astro/komponenten
+next:
+  label: To be continued...
+  link: /
 ---
 
 

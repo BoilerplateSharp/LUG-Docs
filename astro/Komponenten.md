@@ -1,6 +1,12 @@
 ---
 title: Wiederverwendbare Komponenten
 description: Simple und wiederverwendbare Komponenten mit AstroJS
+prev:
+  label: Zurück Text
+  link: /astro/projektstruktur
+next:
+  label: Weiter Text
+  link: /astro/interaktive-inseln
 ---
 
 # Komponenten

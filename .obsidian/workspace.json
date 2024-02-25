@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2126934d0c96b1e4",
+        "id": "6c6fc83d091812c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5f6a174686776553",
+            "id": "3b605913dcb0e75e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Slide Template 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Slide Template 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Slide Template 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Slide Template 1.md"
+              }
             }
           }
         ],
@@ -138,23 +146,31 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "edit-mdx:New .mdx file": false
+      "edit-mdx:New .mdx file": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5f6a174686776553",
+  "active": "3b605913dcb0e75e",
   "lastOpenFiles": [
-    "index.mdx",
-    "start/start.mdx",
+    "attachments/mein_schutzpatron.png",
+    "astro/Interaktive Inseln.md",
+    "astro/Komponenten.md",
+    "astro/Projektstruktur.md",
+    "astro/Projektinitialisierung.md",
     "astro/Einleitung.md",
-    "attachments/index.mdx",
-    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "templates/Default Template.md",
+    "start/start.mdx",
+    "index.mdx",
+    "templates/Slide Template 1.md",
+    "templates/tpl-footer.md",
+    "templates/notes",
+    "templates/slides",
+    "drafts/Untitled.mdx",
     "start/overview.md",
     "start/contribution.md",
+    "attachments/index.mdx",
+    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
     "start",
-    "astro/Komponenten.md",
-    "astro/Projektinitialisierung.md",
-    "astro/Projektstruktur.md",
-    "astro/Interaktive Inseln.md",
     "astro",
     "Astro/Projektstruktur.md",
     "Astro/Projektinitialisierung.md",
@@ -163,8 +179,6 @@
     "Astro/Einleitung.md",
     "Astro",
     "Welcome.md",
-    "attachments",
-    "drafts",
-    "templates"
+    "attachments"
   ]
 }

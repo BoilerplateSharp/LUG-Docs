@@ -1,6 +1,12 @@
 ---
 title: Projektinitialisierung
 description: Wie man ein neues Astro-Projekt aufsetzt.
+prev:
+  label: Zurück Text
+  link: /astro/einleitung
+next:
+  label: Weiter Text
+  link: /astro/projektstruktur
 ---
 
 # 🚧Projektinitialisierung
