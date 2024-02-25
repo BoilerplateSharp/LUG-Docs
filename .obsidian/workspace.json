@@ -147,8 +147,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "517c15b9c7b18d53",
+  "active": "95302232c3a31d29",
   "lastOpenFiles": [
+    "index.mdx",
     "astro/Projektinitialisierung.md",
     "astro/Projektstruktur.md",
     "astro/Komponenten.md",
