@@ -1,0 +1,15 @@
+{
+  "promptDelete": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "drafts",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "attachments",
+  "strictLineBreaks": false,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "tabSize": 2
+}
