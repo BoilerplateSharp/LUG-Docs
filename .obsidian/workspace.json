@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d52227a4fc756dd8",
+        "id": "cba57cfeccfd9e9f",
         "type": "tabs",
         "children": [
           {
-            "id": "517c15b9c7b18d53",
+            "id": "72a276afb3c36114",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "astro/Komponenten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "astro/Komponenten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "astro/Komponenten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "astro/Komponenten.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,18 +137,24 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "edit-mdx:New .mdx file": false
     }
   },
-  "active": "95302232c3a31d29",
+  "active": "72a276afb3c36114",
   "lastOpenFiles": [
+    "start/start.mdx",
     "index.mdx",
+    "astro/Einleitung.md",
+    "attachments/index.mdx",
+    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "start/overview.md",
+    "start/contribution.md",
+    "start",
+    "astro/Komponenten.md",
     "astro/Projektinitialisierung.md",
     "astro/Projektstruktur.md",
-    "astro/Komponenten.md",
-    "astro/Einleitung.md",
     "astro/Interaktive Inseln.md",
-    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
     "astro",
     "Astro/Projektstruktur.md",
     "Astro/Projektinitialisierung.md",

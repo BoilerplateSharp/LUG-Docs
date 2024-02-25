@@ -6,7 +6,7 @@
   "newFileFolderPath": "drafts",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "attachmentFolderPath": "attachments",
   "strictLineBreaks": false,
   "propertiesInDocument": "source",

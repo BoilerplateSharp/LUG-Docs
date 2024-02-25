@@ -1,3 +1,7 @@
+---
+title: Wie man den Arch-Linux Keyring einstellt.
+description: Ein kurzer Guide zum Thema Keyring in Linux und wie man die Echtheit von Softwarepacketen verifizieren kann. 
+---
 ## Introduction and Understanding Package Signing
 
 Arch Linux, known for its flexibility and close adherence to the principles of simplicity and modernity, employs a keyring system to manage and verify the signatures of its packages. This system is crucial for maintaining the security and integrity of your system by ensuring that all packages installed are authenticated, thus reducing the risk of malicious tampering.
