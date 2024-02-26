@@ -44,4 +44,3 @@ description: Ein simples Layout für neue Docs
 </grid>
 
 ---
-

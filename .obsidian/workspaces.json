@@ -6,16 +6,16 @@
         "type": "split",
         "children": [
           {
-            "id": "d52227a4fc756dd8",
+            "id": "6c6fc83d091812c6",
             "type": "tabs",
             "children": [
               {
-                "id": "517c15b9c7b18d53",
+                "id": "3b605913dcb0e75e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "astro/Einleitung.md",
+                    "file": "templates/Default Template.md",
                     "mode": "source",
                     "source": false
                   }
@@ -87,7 +87,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "astro/Einleitung.md",
+                    "file": "templates/Default Template.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "astro/Einleitung.md",
+                    "file": "templates/Default Template.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -127,7 +127,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "astro/Einleitung.md"
+                    "file": "templates/Default Template.md"
                   }
                 }
               }
@@ -147,10 +147,12 @@
           "templates:Insert template": true,
           "command-palette:Open command palette": true,
           "markdown-importer:Open format converter": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "edit-mdx:New .mdx file": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
         }
       },
-      "active": "517c15b9c7b18d53"
+      "active": "3b605913dcb0e75e"
     }
   },
   "active": "EvilSpace"

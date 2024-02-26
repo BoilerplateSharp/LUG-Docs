@@ -2,7 +2,7 @@
 title: Einleitung
 description: Ein kurzer Überblick zu AstroJS
 next:
-  link: /astro/Projektinitialisierung
+  link: /astro/projektinitialisierung
   label: Neues Projekt Starten!
 ---
 
