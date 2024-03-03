@@ -51,7 +51,7 @@ Entropy, in the context of cryptography, refers to the randomness collected by y
 
 #### Accelerating Entropy with `haveged`
 
-**NOTE:** This step can and probably should be skipped, if you have had no problems with the [[#Initializing the Keyring | Initialization]]
+**NOTE:** This step can and probably should be skipped, if you have had no problems with the [[#Initializing the Keyring|Initialization]]
 
 For systems struggling to gather enough entropy, `haveged` offers a solution. This package generates additional entropy through variations in processor behavior, speeding up cryptographic operations that rely on high-quality randomness. In most cases, this is not necessary, because there will be enough entropy. However, if you get errors, this might be an easy fix.
 

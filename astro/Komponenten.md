@@ -169,4 +169,12 @@ Euch ist vielleicht aufgefallen, dass wir im HTML-Template nur die Variablen `hr
 </style>
 ```
 
-Wir können jede beliebige Variable als Text in der Form übergeben
+Auf diese Weise können wir jede beliebige String Variable als CSS-Variable verwenden.
+
+## Interaktivität
+
+Für diese Komponente benötigen wir keinen Client-Seitigen Code. Was wenn wir jedoch wollen, das eine Aktion des Users das UI verändert, sprich: Wie mache ich eine Komponente Reaktiv?
+
+Bei Astro geht dies indem wir ein Script-Tag mit in die Komponente schreiben. Dann können wir, wie auf jeder anderen Seite auch, über JavaScript das DOM, bzw. die HTML-Struktur der Seite dynamisch verändern. Jedoch kommt das mit allen Vor- und Nachteilen von klassischen Script-Elementen. Viel Code, großer Aufwand, viel Boilerplate. Dafür Unmittelbar, Nachvollziehbar und Unabhängig.
+
+Wegen den großen Nachteilen verwenden wir heute für Hoch-Interaktive Applikationen wie `Spotify`, `Discord` oder `Microsoft Teams` so genannte Frontend-Frameworks. Mithilfe dieser Frameworks lassen sich, nach einer initialen Lernkurve, schnell und einfach wiederverwendbare Komponenten bauen. Diese bieten uns Funktionen wie *Data-Bindings*, *Events* und *Lazy-Loading*, ohne jedes Element mit `document.querySelector()` aus dem DOM zu nehmen und für jedes dieser Elemente eine Abstraktion für Data-Bindings zu bauen.

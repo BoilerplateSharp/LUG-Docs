@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "07fbad13824ebea1",
+        "id": "4ab7404968c417ae",
         "type": "tabs",
         "children": [
           {
-            "id": "35230c8a905be866",
+            "id": "dc7177e31e6b18fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Dotnet CLI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "drafts/Dotnet CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "drafts/Dotnet CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "drafts/Dotnet CLI.md"
+              }
             }
           }
         ],
@@ -142,12 +150,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "35230c8a905be866",
+  "active": "dc7177e31e6b18fd",
   "lastOpenFiles": [
     "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "drafts/Dotnet CLI.md",
+    "astro/Komponenten.md",
     "astro/Projektinitialisierung.md",
     "astro/Interaktive Inseln.md",
-    "astro/Komponenten.md",
     "astro/interaktive-inseln.md",
     "astro/Einleitung.md",
     "astro/Projektstruktur.md",
