@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab7404968c417ae",
+        "id": "4fc86e7b47f35085",
         "type": "tabs",
         "children": [
           {
-            "id": "dc7177e31e6b18fd",
+            "id": "9b61661ad5f9ac1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Dotnet CLI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 270.5004348754883
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/Dotnet CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/Dotnet CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "drafts/Dotnet CLI.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,19 +142,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dc7177e31e6b18fd",
+  "active": "9b61661ad5f9ac1a",
   "lastOpenFiles": [
-    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
-    "drafts/Dotnet CLI.md",
-    "astro/Komponenten.md",
-    "astro/Projektinitialisierung.md",
-    "astro/Interaktive Inseln.md",
-    "astro/interaktive-inseln.md",
-    "astro/Einleitung.md",
-    "astro/Projektstruktur.md",
-    "templates/Slide Template 1.md",
+    "assets/local.png",
+    "assets",
     "index.mdx",
+    "git/Was ist Versionsverwaltung.md",
+    "git/Git Tooling.md",
+    "drafts/Git-Objects.md",
+    "drafts/Desaster-Recovery.md",
+    "drafts/Git installieren.md",
+    "drafts/Wie funktioniert Git eigentlich.md",
+    "drafts/VSCode - SQLTools.md",
+    "drafts/Das Interface.md",
+    "drafts/Das Konzept.md",
+    "drafts/Wie man eine SSL-Zertifikatsauthorität wird.md",
+    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "drafts/Git für Anfänger.md",
+    "drafts/Dotnet CLI.md",
+    "astro/Projektstruktur.md",
+    "astro/Projektinitialisierung.md",
+    "astro/Komponenten.md",
+    "astro/Interaktive Inseln.md",
+    "astro/Einleitung.md",
+    "git",
+    "drafts/abc.md",
     "templates/Default Template.md",
+    "templates/Slide Template 1.md",
+    "Powershell",
+    "astro/interaktive-inseln.md",
     "start/start.mdx",
     "start/overview.md",
     "start/contribution.md",
@@ -172,15 +180,6 @@
     "templates/slides",
     "drafts/Untitled.mdx",
     "attachments/index.mdx",
-    "start",
-    "astro",
-    "Astro/Projektstruktur.md",
-    "Astro/Projektinitialisierung.md",
-    "Astro/Komponenten.md",
-    "Astro/Interaktive Inseln.md",
-    "Astro/Einleitung.md",
-    "Astro",
-    "Welcome.md",
-    "attachments"
+    "start"
   ]
 }
