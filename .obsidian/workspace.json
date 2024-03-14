@@ -11,8 +11,12 @@
             "id": "9b61661ad5f9ac1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "git/Was ist Versionsverwaltung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "git/Was ist Versionsverwaltung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "git/Was ist Versionsverwaltung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "git/Was ist Versionsverwaltung.md"
+              }
             }
           }
         ],
@@ -144,6 +152,10 @@
   },
   "active": "9b61661ad5f9ac1a",
   "lastOpenFiles": [
+    "astro/Projektinitialisierung.md",
+    "astro/Einleitung.md",
+    "drafts/Git für Anfänger.md",
+    "drafts/Wie funktioniert Git eigentlich.md",
     "assets/local.png",
     "assets",
     "index.mdx",
@@ -152,19 +164,15 @@
     "drafts/Git-Objects.md",
     "drafts/Desaster-Recovery.md",
     "drafts/Git installieren.md",
-    "drafts/Wie funktioniert Git eigentlich.md",
     "drafts/VSCode - SQLTools.md",
     "drafts/Das Interface.md",
     "drafts/Das Konzept.md",
     "drafts/Wie man eine SSL-Zertifikatsauthorität wird.md",
     "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
-    "drafts/Git für Anfänger.md",
     "drafts/Dotnet CLI.md",
     "astro/Projektstruktur.md",
-    "astro/Projektinitialisierung.md",
     "astro/Komponenten.md",
     "astro/Interaktive Inseln.md",
-    "astro/Einleitung.md",
     "git",
     "drafts/abc.md",
     "templates/Default Template.md",
