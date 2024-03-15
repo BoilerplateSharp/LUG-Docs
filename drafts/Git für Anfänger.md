@@ -24,7 +24,7 @@ theme: blood
 
 ## Versionsverwaltung
 
-![](../assets/134538-163731-163730_rc.jpg)
+![](../assets/git-image.jpg)
 *Bild: [Git, Jason Long](https://git-scm.com/downloads/logos)/[CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)* <!-- element style="font-size: .5em;" -->
 
 notes:
@@ -35,7 +35,7 @@ In unserem konkreten Fall sprechen wir von Versionsverwaltung in der Softwareent
 
 ### Rudimentäre Backups
 
-![](../assets/jb-VSC-Blog-32110-rule-for-today-and-tomorrow-editorial-review-compelte-figA-1536x648.jpg)
+![](../assets/321-backup-strategy.jpg)
 *Bild: [Veeam - 3-2-1-Backup-Rules](https://www.veeam.com/blog/321-backup-rule.html)* <!-- element style="font-size: .5em;" -->
 
 notes:
@@ -135,7 +135,7 @@ Den Default-Branch Namen kann man über die `.gitconfig` einstellen.
 #### `.gitignore`
 
 **Dateien Ausschließen**
-```gitignore
+```txt
 **/*.pem
 **/*.crt
 **/*.cert

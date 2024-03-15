@@ -10,7 +10,7 @@ Git ist ein Open Source Tool und lässt sich unter Linux mit allen Paketmanagern
 winget install --id Git.Git -e --source winget
 ```
 
-![](../assets/Pasted%20image%2020240314191749.png)
+![](../assets/git-download.png)
 
 
 
