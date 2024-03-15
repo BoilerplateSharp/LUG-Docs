@@ -1,6 +1,9 @@
 ---
 title: Was ist Versionsverwaltung
 description: Eine kurze Übersicht über Versionsverwaltung und die Rolle von Git in der modernen Softwareentwicklung und darüber hinaus.
+sidebar:
+  order: 1
+  badge: New
 ---
 
 # Was ist Versionsverwaltung?

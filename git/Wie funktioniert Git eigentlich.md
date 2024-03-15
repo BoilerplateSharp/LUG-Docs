@@ -1,6 +1,9 @@
 ---
 title: Wie funktioniert Git eigentlich?
 description: Eine Übersicht über die Themen in diesem Einsteiger-Guide für Git.
+sidebar:
+  order: 0
+  badge: New
 ---
 
 # Git für Anfänger
@@ -11,13 +14,14 @@ Um mit Git in Symbiose zusammen arbeiten zu können, sollte man die zugrundelege
 
 Wie jedes gute Tutorial, starten wir mit einer kleinen *Geschichtsstunde* und *Erläuterung*. Vielleicht nicht der spannendste Start, aber um zu verstehen, welchen *Mehrwert* uns Git konkret bringt, und warum es die moderne Softwareentwicklung so sehr geprägt hat, hilft es zu verstehen, was Git von anderer Versionsverwaltungssoftware abhebt.
 
+[Versionsverwaltung](Versionsverwaltung.md)
 
 
 ## 1. Das Konzept
 
 *Was* ist die Idee hinter Git? *Warum* wurde es entwickelt? *Weshalb* ist es so drastisch unterschiedlich, von den Konkurrenten seiner Zeit? Die Beantwortung dieser Fragen scheint auf dem ersten Blick nicht essentiell, und das ist sie vielleicht auch nicht. Sie lässt uns aber die Struktur und Arbeitsweise, welche ja bewusst gewählt wurde, besser nachvollziehen.
 
-[[Das Konzept]]
+[Das Konzept](Das%20Konzept.md)
 
 ## 2. Das Interface
 
@@ -30,4 +34,4 @@ Zu wissen, wo das Programm herkommt ist schön und gut. Letztendlich ist aber we
 
 Die kleinste Maßeinheit in Git, sind die sogenannten **Git-Objects**. Das sind nichts anderes als Dateien, welche unterschiedliche Zwecke erfüllen. Von diesen Git-Objekten gibt es *3 Typen*, welche in jedem Repository eine wichtige Rolle spielen. Was ist denn, beispielsweise, wenn man eine Kopie einer Datei in Git abspeichert, mit lediglich einer Namensänderung? Wird die *Datei doppelt* in die Datenbank gespeichert? Was meint Git eigentlich mit *"pushing refs"*?
 
-[Git-Objects](../drafts/Git-Objects.md)
+[Git-Objects](Git-Objects.md)

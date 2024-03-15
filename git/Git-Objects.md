@@ -1,6 +1,9 @@
 ---
 title: Git-Objects
 description: Low-Level - Wie funktioniert Git eigentlich? Ist es ein Filesystem-Backup? Ist es eine Datenbank? Es ist... nunja, etwas von beidem.
+sidebar:
+  order: 4
+  badge: New
 ---
 # 🧩 Die Puzzleteile
 

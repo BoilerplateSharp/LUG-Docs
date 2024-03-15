@@ -1,6 +1,9 @@
 ---
 title: Git - Das Interface
 description: Eine Übersicht über die wichtigsten Git-CLI Befehle.
+sidebar:
+  order: 3
+  badge: New
 ---
 # Init-Commands
 

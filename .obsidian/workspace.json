@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "astro/Projektstruktur.md",
+                "file": "git/Git Tooling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "astro/Projektstruktur.md",
+                "file": "git/Git Tooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "astro/Projektstruktur.md",
+                "file": "git/Git Tooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "astro/Projektstruktur.md"
+                "file": "git/Git Tooling.md"
               }
             }
           }
@@ -152,6 +152,12 @@
   },
   "active": "38ea07a07603370b",
   "lastOpenFiles": [
+    "git/Git-Objects.md",
+    "git/Das Interface.md",
+    "git/Das Konzept.md",
+    "git/Wie funktioniert Git eigentlich.md",
+    "git/Versionsverwaltung.md",
+    "astro/Projektstruktur.md",
     "astro/Projektinitialisierung.md",
     "astro/Komponenten.md",
     "astro/Interaktive Inseln.md",
@@ -160,14 +166,9 @@
     "assets/321-backup-strategy.jpg",
     "assets/git-image.jpg",
     "drafts/Git für Anfänger.md",
-    "git/Das Konzept.md",
-    "git/Das Interface.md",
-    "git/Wie funktioniert Git eigentlich.md",
-    "git/Versionsverwaltung.md",
     "git/Git Tooling.md",
     "drafts/Desaster-Recovery.md",
     "drafts/VSCode - SQLTools.md",
-    "drafts/Git-Objects.md",
     "drafts/Git installieren.md",
     "assets/mentimeter_qr_code.png",
     "assets/git-basic-commands-768x569.png",
@@ -175,7 +176,6 @@
     "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
     "drafts/Dotnet CLI.md",
     "drafts/Wie man eine SSL-Zertifikatsauthorität wird.md",
-    "astro/Projektstruktur.md",
     "assets/centralized.png",
     "assets/distributed.png",
     "assets/local.png",

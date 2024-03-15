@@ -1,6 +1,9 @@
 ---
 title: Das Konzept
 description: Was ist Git? Warum ist Git? Und vorallem - Wie ist Git?
+sidebar:
+  order: 2
+  badge: New
 ---
 
 # Versionsverwaltung in einer Nussschale

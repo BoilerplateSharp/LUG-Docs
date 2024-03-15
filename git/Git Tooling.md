@@ -1,6 +1,9 @@
 ---
 title: Weitere Git-Tools
 description: Eine nicht ausführliche Liste an Tools, die das Leben mit Git einfacher oder angenehmer machen.
+sidebar:
+  order: 5
+  badge: New
 ---
 
 Git ist an sich schon ein großartiges Tool welches jeder Entwickler und jede Entwicklerin beherschen sollte. Allerdings kann es auch, für manche mehr, für andere weniger, mit der Zeit nervig werden, alles über ein einfaches CLI-Interface zu erledigen. Falls es euch so geht, kann ich euch beruhigen:
