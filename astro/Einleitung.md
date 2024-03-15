@@ -5,7 +5,6 @@ next:
   link: /astro/projektinitialisierung
   label: Neues Projekt Starten!
 ---
-
 # 🤔Was Ist Astro?
 
 Astro ist ein Webserver-Framework, wie z.B. auch ***ASP.NET***, **Springboot**, **Django**, **Express.js**, **RubyOnRails**, **Laravell** oder ähnlichen.

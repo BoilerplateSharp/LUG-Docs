@@ -8,15 +8,27 @@ In diesem Artikel konzentrieren wir uns darauf, wie du deine WebAPI-Projekte mit
 
 ## Projekte erstellen
 
-### 1. Neues Projekt erstellen
+### 0. Projekt-Template wählen
 
-Öffne die Konsole und navigiere zum Ordner, in dem du das Projekt erstellen möchtest. Gib dann den folgenden Befehl ein:
+Mit dem Dotnet CLI können wir die gleichen Templates, welche in Visual Studio zur Verfügung stehen, nutzen.
 
 ```shell
-dotnet new webapi -n awesome-api
+dotnet new list # List alle lokal verfügbaren Projekttemplates
 ```
 
-Hier wird ein neues WebAPI-Projekt mit dem Namen "awesome-api" erstellt. Du kannst den Namen nach deinen Wünschen anpassen.
+### 1. Neues Projekt erstellen
+
+Hast du eine Template gewählt, öffne die Konsole und navigiere zum Ordner, in dem du das Projekt erstellen möchtest. Gib dann den folgenden Befehl ein:
+
+```shell
+dotnet new webapi
+```
+
+Hier wird ein neues WebAPI-Projekt mit dem Namen des aktuellen Ordners erstellt. Du kannst den Namen nach deinen Wünschen wie folgt anpassen.
+
+```shell
+dotnet new webapi -o ./MeinProjekt
+```
 
 ### 2. In das Projektverzeichnis wechseln
 

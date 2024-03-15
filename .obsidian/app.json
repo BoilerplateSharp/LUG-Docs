@@ -7,7 +7,7 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "assets",
   "strictLineBreaks": false,
   "propertiesInDocument": "source",
   "showLineNumber": true,

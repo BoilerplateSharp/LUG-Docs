@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc86e7b47f35085",
+        "id": "1fdb3cfe74876bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b61661ad5f9ac1a",
+            "id": "f658133f25a8b5e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Was ist Versionsverwaltung.md",
+                "file": "git/Das Konzept.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Was ist Versionsverwaltung.md",
+                "file": "git/Das Konzept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Was ist Versionsverwaltung.md",
+                "file": "git/Das Konzept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Was ist Versionsverwaltung.md"
+                "file": "git/Das Konzept.md"
               }
             }
           }
@@ -150,29 +150,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9b61661ad5f9ac1a",
+  "active": "f658133f25a8b5e7",
   "lastOpenFiles": [
-    "astro/Projektinitialisierung.md",
-    "astro/Einleitung.md",
+    "git/Das Interface.md",
+    "git/Wie funktioniert Git eigentlich.md",
+    "git/Versionsverwaltung.md",
+    "git/Git Tooling.md",
+    "git/Das Konzept.md",
+    "drafts/Desaster-Recovery.md",
+    "drafts/VSCode - SQLTools.md",
+    "drafts/Git-Objects.md",
+    "drafts/Git installieren.md",
     "drafts/Git für Anfänger.md",
-    "drafts/Wie funktioniert Git eigentlich.md",
+    "assets/mentimeter_qr_code.png",
+    "assets/git-basic-commands-768x569.png",
+    "assets/remote-branches-1.png",
+    "assets/jb-VSC-Blog-32110-rule-for-today-and-tomorrow-editorial-review-compelte-figA-1536x648.jpg",
+    "assets/134538-163731-163730_rc.jpg",
+    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "drafts/Dotnet CLI.md",
+    "assets/Pasted image 20240314191749.png",
+    "drafts/Wie man eine SSL-Zertifikatsauthorität wird.md",
+    "astro/Projektstruktur.md",
+    "astro/Projektinitialisierung.md",
+    "astro/Komponenten.md",
+    "astro/Interaktive Inseln.md",
+    "astro/Einleitung.md",
+    "assets/centralized.png",
+    "assets/distributed.png",
     "assets/local.png",
     "assets",
     "index.mdx",
-    "git/Was ist Versionsverwaltung.md",
-    "git/Git Tooling.md",
-    "drafts/Git-Objects.md",
-    "drafts/Desaster-Recovery.md",
-    "drafts/Git installieren.md",
-    "drafts/VSCode - SQLTools.md",
-    "drafts/Das Interface.md",
-    "drafts/Das Konzept.md",
-    "drafts/Wie man eine SSL-Zertifikatsauthorität wird.md",
-    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
-    "drafts/Dotnet CLI.md",
-    "astro/Projektstruktur.md",
-    "astro/Komponenten.md",
-    "astro/Interaktive Inseln.md",
     "git",
     "drafts/abc.md",
     "templates/Default Template.md",

@@ -32,6 +32,9 @@ Introducing: **CVCS** (Centralized Version Control System)
 
 Beispiele für CVCS sind `Perforce` oder `Subversion`. Bei diesen Systemen gibt es einen zentralen Server, welcher das Repository inklusive aller Patches bereit stellt. Die Clients holen sich die Dateien vom Server, die sie bearbeiten wollen. Diesen Vorgang nennt man auch *Auschecken*.
 
+![](../assets/centralized.png)
+*Abbildung 2. Zentrale Versionsverwaltung - Auszug aus dem Git-Book Kapitel 1.1*
+
 Da es lediglich einen zentralen Server gibt, wissen jederzeit alle Projektmitarbeiter, was die anderen gerade tun. Außerdem können Administratoren die Berechtigungen sehr genau definieren.
 
 Der größte Nachteil liegt auf der Hand: Was wenn der zentrale VCS-Server nicht verfügbar ist? Jede Minute, wo der Server nicht erreichbar ist, übersetzt sich direkt in Produktivitätsverlust. Die Rechnung ist einfach: `Downtime Server * Anzahl Projektmitarbeiter = viel verbranntes Geld`... Yikes.
@@ -45,4 +48,7 @@ Das heißt, jede lokale Kopie enthält eine vollständige History über alle vor
 
 Wie Git das genau macht, lernst du im weiteren Verlauf dieses Tutorials. 
 
-> To Be Continued
+![](../assets/distributed.png)
+*Abbildung 3. Verteilte Versionsverwaltung - Auszug aus dem Git-Book Kapitel 1.1*
+
+Da das System dezentral ist, kann es hier auch mehrere Remote-Server geben, sodass verschiedene Gruppen von Projektmitarbeitern simultan auf verschiedene Art und Weise partizipieren können. Somit unterstützt Git jeden erdenklichen Workflow, was mit zentralen Systemen nur schwer funktioniert.

@@ -90,3 +90,4 @@ Third-party packages, especially those from the Arch User Repository (AUR), pose
 ### Conclusion
 
 Understanding and managing your Arch Linux keyring is fundamental for system security. By initializing and populating your keyring, you ensure that your system can authenticate package signatures, protecting against malicious software. The use of tools like `haveged` to improve entropy quality and the cautious handling of third-party packages further secure your Arch Linux experience.
+

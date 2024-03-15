@@ -8,7 +8,6 @@ next:
   label: Komponenten
   link: /astro/komponenten
 ---
-
 # 🌲Projektstruktur
 
 Astro hat ein bereits vordefiniertes Layout für die Projektstruktur. Ihr könnt natürlich weitere Unter-Ordner hinzufügen und euer Projekt strukturieren wie es für euch am Besten ist. Allerdings gibt es einige kleine Vorgaben.
