@@ -298,7 +298,7 @@ Date:   Fri Mar 8 19:00:54 2024 +0100
 
 **Übersicht über die wichtigsten Befehle**
 
-![overview | 600](../assets/git-basic-commands-768x569.png)
+![overview | 600](../assets/git-cheat-sheet.png)
 *[DevGuide.at | Pull & Push - the remote repository](https://www.devguide.at/en/git/pull-push-the-remote-repository/)* <!-- element style="font-size: .5em;" -->
 
 
