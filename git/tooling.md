@@ -12,9 +12,9 @@ Ihr seid nicht die einzigen, und einige findige Entwickler haben für genau dies
 # Lazygit
 
 Lazygit ist mit Abstand mein Lieblings-Git-TUI-Interface.
-Es ist eine minimale Binary, welche einem einen einfachen und performanten Überblick über das ganze Repository und die Git Datenbank.
+Es ist eine minimale Binary, welche einem einen einfachen und hochperformanten Überblick über das ganze Repository und die Git Datenbank.
 
-[Lazygit - Github.com](https://github.com/.../lazygit)
+[Lazygit - Github.com](https://github.com/jesseduffield/lazygit)
 
 # Github-Desktop
 

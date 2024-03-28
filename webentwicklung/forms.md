@@ -216,5 +216,5 @@ Das folgende Beispiel hat einige mehr Inputs, mehr Attribute und ein wesentlich 
 
 ### Ergebnis
 
-![](../assets/Pasted%20image%2020240327153922.png)
+![](../assets/grid-form.png)
 

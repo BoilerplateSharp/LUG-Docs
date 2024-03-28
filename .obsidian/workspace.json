@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csharp/dotnet-cli.md",
+                "file": "git/tooling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "csharp/dotnet-cli.md",
+                "file": "git/tooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "csharp/dotnet-cli.md",
+                "file": "git/tooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "csharp/dotnet-cli.md"
+                "file": "git/tooling.md"
               }
             }
           }
@@ -152,13 +152,20 @@
   },
   "active": "bfbbcf1a848a8bb1",
   "lastOpenFiles": [
-    "astro/interaktive-inseln.md",
-    "astro/komponenten.md",
+    "webentwicklung/fonts.mdx",
+    "webentwicklung/forms.md",
+    "assets/grid-form.png",
+    "assets/Pasted image 20240327153849.png",
+    "webentwicklung/fonts.md",
+    "assets/demo-variable-fonts.mp4",
     "astro/projektstruktur.md",
     "astro/projektinitialisierung.md",
+    "astro/komponenten.md",
     "astro/einleitung.md",
-    "git/interface.md",
+    "astro/interaktive-inseln.md",
+    "assets/321-backup-strategy.jpg",
     "csharp/dotnet-cli.md",
+    "git/interface.md",
     "devsetup/vscode-sqltools.md",
     "drafts/flexbox.md",
     "git/versionsverwaltung.md",
@@ -167,7 +174,6 @@
     "git/objects.md",
     "git/konzept.md",
     "webentwicklung/openssl.md",
-    "webentwicklung/forms.md",
     "drafts/motion-canvas.md",
     "drafts/slides-recovery.md",
     "drafts/grid.md",
@@ -178,10 +184,7 @@
     "review/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
     "review",
     "devsetup",
-    "webentwicklung/fonts.md",
     "webentwicklung",
-    "assets/Pasted image 20240327153922.png",
-    "assets/Pasted image 20240327153849.png",
     "csharp/Einleitung.md",
     "csharp",
     "assets/github-monaspace-1.png",
@@ -189,14 +192,10 @@
     "assets/roboto-font-raw-console.png",
     "assets/roboto-font-folder.png",
     "assets/git-cheat-sheet.png",
-    "assets/demo-variable-fonts.mp4",
     "assets/github-monaspace-2.png",
     "index.mdx",
     "assets/git-download.png",
-    "assets/321-backup-strategy.jpg",
     "assets",
-    "git",
-    "drafts/abc.md",
-    "Powershell"
+    "git"
   ]
 }
