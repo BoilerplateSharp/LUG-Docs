@@ -6,16 +6,16 @@
         "type": "split",
         "children": [
           {
-            "id": "6c6fc83d091812c6",
+            "id": "8bf52ae04aeb5a64",
             "type": "tabs",
             "children": [
               {
-                "id": "3b605913dcb0e75e",
+                "id": "c18c65383dd6b77a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "templates/Default Template.md",
+                    "file": "drafts/HTML-Forms.md",
                     "mode": "source",
                     "source": false
                   }
@@ -71,7 +71,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 200
+        "width": 204.50043487548828
       },
       "right": {
         "id": "3864b23b98b85ca6",
@@ -87,7 +87,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "templates/Default Template.md",
+                    "file": "drafts/HTML-Forms.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "templates/Default Template.md",
+                    "file": "drafts/HTML-Forms.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -127,7 +127,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "templates/Default Template.md"
+                    "file": "drafts/HTML-Forms.md"
                   }
                 }
               }
@@ -152,7 +152,8 @@
           "obsidian-advanced-slides:Show Slide Preview": false
         }
       },
-      "active": "3b605913dcb0e75e"
+      "active": "c18c65383dd6b77a",
+      "mtime": "2024-03-27T15:20:45+01:00"
     }
   },
   "active": "EvilSpace"

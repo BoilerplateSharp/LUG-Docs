@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a921c9454b6d96cb",
+        "id": "e39983c4ceb855fc",
         "type": "tabs",
         "children": [
           {
-            "id": "38ea07a07603370b",
+            "id": "bfbbcf1a848a8bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Git Tooling.md",
+                "file": "csharp/dotnet-cli.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5004348754883
+    "width": 296.5004348754883
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Git Tooling.md",
+                "file": "csharp/dotnet-cli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Git Tooling.md",
+                "file": "csharp/dotnet-cli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Git Tooling.md"
+                "file": "csharp/dotnet-cli.md"
               }
             }
           }
@@ -150,52 +150,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "38ea07a07603370b",
+  "active": "bfbbcf1a848a8bb1",
   "lastOpenFiles": [
-    "git/Git-Objects.md",
-    "git/Das Interface.md",
-    "git/Das Konzept.md",
-    "git/Wie funktioniert Git eigentlich.md",
-    "git/Versionsverwaltung.md",
-    "astro/Projektstruktur.md",
-    "astro/Projektinitialisierung.md",
-    "astro/Komponenten.md",
-    "astro/Interaktive Inseln.md",
-    "astro/Einleitung.md",
+    "astro/interaktive-inseln.md",
+    "astro/komponenten.md",
+    "astro/projektstruktur.md",
+    "astro/projektinitialisierung.md",
+    "astro/einleitung.md",
+    "git/interface.md",
+    "csharp/dotnet-cli.md",
+    "devsetup/vscode-sqltools.md",
+    "drafts/flexbox.md",
+    "git/versionsverwaltung.md",
+    "git/uebersicht.md",
+    "git/tooling.md",
+    "git/objects.md",
+    "git/konzept.md",
+    "webentwicklung/openssl.md",
+    "webentwicklung/forms.md",
+    "drafts/motion-canvas.md",
+    "drafts/slides-recovery.md",
+    "drafts/grid.md",
+    "drafts/Git installieren.md",
+    "drafts/git-fuer-anfaenger.md",
+    "slides",
+    "drafts/MC-Gitgraph.md",
+    "review/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "review",
+    "devsetup",
+    "webentwicklung/fonts.md",
+    "webentwicklung",
+    "assets/Pasted image 20240327153922.png",
+    "assets/Pasted image 20240327153849.png",
+    "csharp/Einleitung.md",
+    "csharp",
+    "assets/github-monaspace-1.png",
+    "assets/roboto-font-project.png",
+    "assets/roboto-font-raw-console.png",
+    "assets/roboto-font-folder.png",
+    "assets/git-cheat-sheet.png",
+    "assets/demo-variable-fonts.mp4",
+    "assets/github-monaspace-2.png",
+    "index.mdx",
     "assets/git-download.png",
     "assets/321-backup-strategy.jpg",
-    "assets/git-image.jpg",
-    "drafts/Git für Anfänger.md",
-    "git/Git Tooling.md",
-    "drafts/Desaster-Recovery.md",
-    "drafts/VSCode - SQLTools.md",
-    "drafts/Git installieren.md",
-    "assets/mentimeter_qr_code.png",
-    "assets/git-basic-commands-768x569.png",
-    "assets/remote-branches-1.png",
-    "drafts/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
-    "drafts/Dotnet CLI.md",
-    "drafts/Wie man eine SSL-Zertifikatsauthorität wird.md",
-    "assets/centralized.png",
-    "assets/distributed.png",
-    "assets/local.png",
     "assets",
-    "index.mdx",
     "git",
     "drafts/abc.md",
-    "templates/Default Template.md",
-    "templates/Slide Template 1.md",
-    "Powershell",
-    "astro/interaktive-inseln.md",
-    "start/start.mdx",
-    "start/overview.md",
-    "start/contribution.md",
-    "attachments/mein_schutzpatron.png",
-    "templates/tpl-footer.md",
-    "templates/notes",
-    "templates/slides",
-    "drafts/Untitled.mdx",
-    "attachments/index.mdx",
-    "start"
+    "Powershell"
   ]
 }

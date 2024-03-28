@@ -1,12 +1,8 @@
 ---
 title: Projektstruktur
 description: Eine Übersicht über die wichtigsten Dateien und Ordner eines Astro-Projekts.
-prev:
-  label: Projektinitialisierung
-  link: /astro/projektinitialisierung
-next:
-  label: Komponenten
-  link: /astro/komponenten
+sidebar:
+  order: 2
 ---
 # 🌲Projektstruktur
 

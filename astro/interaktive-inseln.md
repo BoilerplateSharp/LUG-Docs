@@ -1,12 +1,8 @@
 ---
 title: Interaktive Inseln
 description: Interaktive Komponenten auf einer statischen HTML-Seite
-prev:
-  label: Komponenten
-  link: /astro/komponenten
-next:
-  label: To be continued...
-  link: /
+sidebar:
+  order: 4
 ---
 # 🌴Astro-Inseln
 

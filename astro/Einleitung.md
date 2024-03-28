@@ -1,9 +1,8 @@
 ---
 title: Einleitung
 description: Ein kurzer Überblick zu AstroJS
-next:
-  link: /astro/projektinitialisierung
-  label: Neues Projekt Starten!
+sidebar:
+  order: 0
 ---
 # 🤔Was Ist Astro?
 
@@ -41,4 +40,5 @@ Für genau diesen Zweck hat man sich Webkomponenten ausgedacht.
 Um eine Seite mit solchen Komponenten zu bauen, brauchen wir ein UI-Framework wie React, Svelte, Angular oder andere. Diese Frameworks unterscheiden sich in Syntax, Konventionen und Konfiguration. Die Idee bleibt die gleiche:
 
 `HTML`, `CSS` und `Javascript` in einer Datei, für eine wiederverwendbare Komponente vereinen, und diese dann auf mehreren Seiten oder sogar in anderen Projekten wiederverwenden.
+
 
