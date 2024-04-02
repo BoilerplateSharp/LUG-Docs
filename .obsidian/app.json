@@ -12,5 +12,7 @@
   "propertiesInDocument": "source",
   "showLineNumber": true,
   "tabSize": 2,
-  "useTab": false
+  "useTab": false,
+  "vimMode": true,
+  "showInlineTitle": true
 }

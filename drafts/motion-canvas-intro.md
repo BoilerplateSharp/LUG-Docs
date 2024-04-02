@@ -1,5 +1,5 @@
 ---
-title: Motion-Canvas Quickstart
+title: Motion-Canvas Einleitung
 description: Gettings-Started with Motion-Canvas
 ---
 Motion Canvas besteht aus zwei Hauptkomponenten:

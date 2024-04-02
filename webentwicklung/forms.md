@@ -218,3 +218,10 @@ Das folgende Beispiel hat einige mehr Inputs, mehr Attribute und ein wesentlich 
 
 ![](../assets/grid-form.png)
 
+
+import exampleImage from "../assets/centralized.png";
+
+[centralized](../assets/centralized.png)
+
+<img src="../assets/centralized.png" alt="demo-image">
+
