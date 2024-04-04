@@ -3,7 +3,6 @@ title: Git-Objects
 description: Low-Level - Wie funktioniert Git eigentlich? Ist es ein Filesystem-Backup? Ist es eine Datenbank? Es ist... nunja, etwas von beidem.
 sidebar:
   order: 4
-  badge: New
 ---
 
 In Git gibt es maßgeblich 3 Arten von Objekten, welche die komplette Funktionalitäten von Git abbilden. Alle anderen Features bauen auf diesen Grundliegenden Ideen auf. Wenn wir diese Puzzleteile verstehen, setzt sich für uns das Gesamtbild und damit ein tiefgehendes Verständnis über die Funktionsweise von Git zusammen.

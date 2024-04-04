@@ -3,7 +3,6 @@ title: Das Konzept
 description: Was ist Git? Warum ist Git? Und vorallem - Wie ist Git?
 sidebar:
   order: 2
-  badge: New
 ---
 
 `Git` ist, in kürze beschrieben, ein verteiltes Versionsverwaltungssystem für Quellcode.

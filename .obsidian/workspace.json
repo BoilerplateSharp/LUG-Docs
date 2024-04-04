@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webentwicklung/forms.md",
+                "file": "start/style-guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webentwicklung/forms.md",
+                "file": "start/style-guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webentwicklung/forms.md",
+                "file": "start/style-guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webentwicklung/forms.md"
+                "file": "start/style-guide.md"
               }
             }
           }
@@ -153,21 +153,24 @@
   "active": "ee9e70ac7654d628",
   "lastOpenFiles": [
     "start/start.mdx",
+    "start/overview.md",
+    "start/contribution.md",
+    "assets/fork-docs-github.png",
+    "assets/edit-page-link.png",
+    "git/versionsverwaltung.md",
+    "git/uebersicht.md",
+    "git/tooling.md",
+    "git/objects.md",
+    "git/konzept.md",
+    "git/interface.md",
+    "webentwicklung/forms.md",
     "index.mdx",
     "start/style-guide.md",
     "assets/asides.png",
-    "start/contribution.md",
     "drafts/git-fuer-anfaenger.md",
     "drafts/Git installieren.md",
-    "git/tooling.md",
     "templates/slide-template.md",
-    "start/overview.md",
-    "git/uebersicht.md",
-    "git/versionsverwaltung.md",
-    "git/konzept.md",
-    "git/interface.md",
     "templates/default-template.mdx",
-    "git/objects.md",
     "templates/slide-template.mdx",
     "review/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
     "templates/default-template.md",
@@ -181,7 +184,6 @@
     "drafts/Yield.md",
     "drafts/(.md",
     "drafts/flexbox.md",
-    "drafts/slides-recovery.md",
     "webentwicklung/fonts.mdx",
     "assets/imgs/demo-screen.png",
     "assets/imgs",
@@ -194,8 +196,6 @@
     "review",
     "assets/github-monaspace-1.png",
     "assets/roboto-font-project.png",
-    "assets/roboto-font-raw-console.png",
-    "assets/roboto-font-folder.png",
-    "assets/git-cheat-sheet.png"
+    "assets/roboto-font-raw-console.png"
   ]
 }

@@ -3,7 +3,6 @@ title: Was ist Versionsverwaltung
 description: Eine kurze Übersicht über Versionsverwaltung und die Rolle von Git in der modernen Softwareentwicklung und darüber hinaus.
 sidebar:
   order: 1
-  badge: New
 ---
 
 Einfach erklärt ist Versionsverwaltung ein System, welches Änderungen über Zeit protokolliert.

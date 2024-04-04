@@ -3,7 +3,6 @@ title: Wie funktioniert Git eigentlich?
 description: Eine Übersicht über die Themen in diesem Einsteiger-Guide für Git.
 sidebar:
   order: 0
-  badge: New
 ---
 
 Um mit Git in Symbiose zusammen arbeiten zu können, sollte man die zugrundelegenden Einzelteile, aus denen das Tool besteht, verstehen und einordnen können. Dazu teilen wir dieses Tutorial in die folgenden Kapitel ein:

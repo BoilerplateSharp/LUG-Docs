@@ -35,8 +35,28 @@ todo: discord bot github issue
 
 ### Fehler beheben
 
-todo: for writers, opensource?
+Du hast bei Lesen eines Dokuments einen Fehler gefunden und 5 Minuten Zeit? Klicke dafür einfach auf den `Edit page` Link am Ende eines jeden Dokuments auf der Seite.
+
+![](../assets/edit-page-link.png)
+
+Falls es das erste Mal ist, dass du eine Verbesserung vornimmst, wirst du auf folgende Seite weitergeleitet:
+
+![](../assets/fork-docs-github.png)
+
+Dort musst du auf den grünen Fork-Button klicken, worauf dir Github eine eigene Kopie des Repos erstellt unter `<username>/LUG-Docs`. Dort kannst du die Seite einfach bearbeiten und die Änderungen speichern.
+
+Um die Änderungen dann im originalen Repository zu übernehmen, musst du einen Pull-Request einreichen:
+
+todo: how-to fork-commit-pullrequest
 
 #### Für Git-User
 
-Wer sich mit Git auskennt hat es leicht. Clone einfach das [Github Repository für die Docs]().
+**Du bist ebenfalls Maintainer** im Docs-Repository?
+Dann klone einfach das [Github Repository für die Docs](https://github.com/BoilerplateSharp/LUG-Docs) und **öffnet es mit Obsidian** oder einem anderen Editor für Markdown-Dateien.
+
+**Du bist kein Maintainer**, möchtest aber trotzdem eine lokale Version auf deinem PC haben und mit einem Editor deiner Wahl mitarbeiten? Dann musst du auf Github einen Fork des Repositories erstellen. Falls Forks für dich Neuland sind, findest du [hier](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) nähere Informationen und eine kleine Übung dazu.
+Nachdem du deine Fork des Projekts erstellt hast, klone dieses Repository auf deinen PC und öffne den Ordner mit einem Markdown-Editor deiner Wahl.
+
+[Obsidian.md](https://obsidian.md) ist ein Markdown-Editor, welcher eine Vielzahl von Plugins und Themes anbietet. Außerdem erleichtert er mit eingebauter Vorschau des Dokuments, wie es im Browser aussehen wird, eine einfache und nahtlose Writing-Experience. 
+
+In dem Repository befindet sich ein `.obsidian` Ordner. Diesen Ordner musst du nicht direkt bearbeiten, er enthält aber eine Konfiguration mit sinnvollen Defaults. Du kannst über das ⚙️Settings-UI alle Einstellungen anpassen, wie es für dich am Besten passt.
