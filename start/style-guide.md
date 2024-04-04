@@ -95,7 +95,7 @@ lorem ipsum dolor est
 
 So sehen die Asides auf der Webseite aus:
 
-![asides](../assets/Pasted%20image%2020240403140753.png)
+![asides](../assets/asides.png)
 
 Asides können außerdem benutzerdefinierte Überschriften haben:
 

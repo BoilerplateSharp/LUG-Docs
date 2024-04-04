@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d45fd0b81d7a037",
+        "id": "914067b389a85d0f",
         "type": "tabs",
         "children": [
           {
-            "id": "90d21c111fad1058",
+            "id": "ee9e70ac7654d628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/uebersicht.md",
+                "file": "webentwicklung/forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/uebersicht.md",
+                "file": "webentwicklung/forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/uebersicht.md",
+                "file": "webentwicklung/forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/uebersicht.md"
+                "file": "webentwicklung/forms.md"
               }
             }
           }
@@ -150,17 +150,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "90d21c111fad1058",
+  "active": "ee9e70ac7654d628",
   "lastOpenFiles": [
-    "git/versionsverwaltung.md",
-    "git/uebersicht.md",
-    "git/konzept.md",
+    "start/start.mdx",
+    "index.mdx",
     "start/style-guide.md",
+    "assets/asides.png",
     "start/contribution.md",
+    "drafts/git-fuer-anfaenger.md",
+    "drafts/Git installieren.md",
+    "git/tooling.md",
+    "templates/slide-template.md",
+    "start/overview.md",
+    "git/uebersicht.md",
+    "git/versionsverwaltung.md",
+    "git/konzept.md",
     "git/interface.md",
     "templates/default-template.mdx",
-    "templates/slide-template.md",
-    "git/tooling.md",
     "git/objects.md",
     "templates/slide-template.mdx",
     "review/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
@@ -172,16 +178,10 @@
     "astro/einleitung.md",
     "csharp/dotnet-cli.md",
     "devsetup/vscode-sqltools.md",
-    "assets/Pasted image 20240403140753.png",
     "drafts/Yield.md",
     "drafts/(.md",
-    "drafts/Git installieren.md",
     "drafts/flexbox.md",
-    "start/start.mdx",
-    "start/overview.md",
     "drafts/slides-recovery.md",
-    "drafts/motioncanvas-flow.md",
-    "index.mdx",
     "webentwicklung/fonts.mdx",
     "assets/imgs/demo-screen.png",
     "assets/imgs",

@@ -24,7 +24,7 @@ theme: blood
 
 ## Versionsverwaltung
 
-![](../assets/git-image.jpg)
+![test](../assets/git-image.jpg)
 *Bild: [Git, Jason Long](https://git-scm.com/downloads/logos)/[CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)* <!-- element style="font-size: .5em;" -->
 
 notes:
