@@ -6,8 +6,6 @@ sidebar:
   badge: New
 ---
 
-# Was ist Versionsverwaltung?
-
 Einfach erklärt ist Versionsverwaltung ein System, welches Änderungen über Zeit protokolliert.
 
 In unserem konkreten Fall sprechen wir von Versionsverwaltung in der Softwareentwicklung. Dabei kann man Versionsverwaltungs-Systeme für alle möglichen Dateien nutzen, auch wenn es in manchen Fällen nicht sonderlich sinnvoll ist. Mehr dazu später.

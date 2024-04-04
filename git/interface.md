@@ -5,7 +5,6 @@ sidebar:
   order: 3
   badge: New
 ---
-# Init-Commands
 
 ## `git init`
 

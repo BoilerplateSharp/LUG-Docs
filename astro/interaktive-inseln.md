@@ -4,7 +4,6 @@ description: Interaktive Komponenten auf einer statischen HTML-Seite
 sidebar:
   order: 4
 ---
-# 🌴Astro-Inseln
 
 Astro-Inseln, oder auch Astro-Islands oder Komponenteninseln, bezeichnet eine interaktive UI-Komponente auf einer ansonsten statischen HTML-Seite. Das heißt wir können eine extrem schnelle Seite haben, welche kleine Inseln an Interaktivität bietet, welche dann vielleicht ein wenig langsamer nachladen.
 Kuchen bekommen und Kuchen essen in einem.

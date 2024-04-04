@@ -5,7 +5,6 @@ sidebar:
   order: 4
   badge: New
 ---
-# 🧩 Die Puzzleteile
 
 In Git gibt es maßgeblich 3 Arten von Objekten, welche die komplette Funktionalitäten von Git abbilden. Alle anderen Features bauen auf diesen Grundliegenden Ideen auf. Wenn wir diese Puzzleteile verstehen, setzt sich für uns das Gesamtbild und damit ein tiefgehendes Verständnis über die Funktionsweise von Git zusammen.
 
@@ -84,6 +83,3 @@ git cat-file -p 8a7cd1
 **/node_modules
 .trash
 ```
-
-
-> To Be Continued

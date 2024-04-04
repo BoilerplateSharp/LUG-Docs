@@ -4,7 +4,6 @@ description: Simple und wiederverwendbare Komponenten mit AstroJS
 sidebar:
   order: 3
 ---
-# ⚙️Komponenten
 
 Stellen wir uns vor wir wollen auf unsere Webseite ein Kartendesign bauen und auf mehreren Unterseiten verwenden. Wir erstellen also eine `card.astro` Datei.
 Eine `.astro` Datei enthält nicht nur unser **HTML**, spezifisch nur für die Karte, sondern auch die zugehörigen **Styles** und **JavaScript**.

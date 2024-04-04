@@ -2,7 +2,6 @@
 title: Dotnet CLI
 description: Wie man C# Projekte mit dem Dotnet CLI managen kann.
 ---
-# Projekte erstellen und managen mit dem Dotnet-CLI
 
 In diesem Artikel konzentrieren wir uns darauf, wie du deine C#-Projekte mit dem `dotnet` CLI erstellen und managen kannst. 
 

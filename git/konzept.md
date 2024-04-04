@@ -6,8 +6,6 @@ sidebar:
   badge: New
 ---
 
-# Versionsverwaltung in einer Nussschale
-
 `Git` ist, in kürze beschrieben, ein verteiltes Versionsverwaltungssystem für Quellcode.
 
 Das legendäre Spiel RollerCoaster Tycoon aus dem Jahr 1999 wurde von einer einzelnen Person namens Chris Sawyer in `x86_assembly` programmiert.
@@ -99,5 +97,3 @@ $ git add -i
   1: [s]tatus     2: [u]pdate      3: [r]evert     4: [a]dd untracked
   5: [p]atch      6: [d]iff        7: [q]uit       8: [h]elp
 ```
-
-todo:

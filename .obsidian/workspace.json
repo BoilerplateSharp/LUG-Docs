@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a57d1bee4e3d155",
+        "id": "0d45fd0b81d7a037",
         "type": "tabs",
         "children": [
           {
-            "id": "614bd51730796dc2",
+            "id": "90d21c111fad1058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Git installieren.md",
+                "file": "git/uebersicht.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5004348754883
+    "width": 300.5086555480957
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/Git installieren.md",
+                "file": "git/uebersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/Git installieren.md",
+                "file": "git/uebersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Git installieren.md"
+                "file": "git/uebersicht.md"
               }
             }
           }
@@ -150,52 +150,52 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "614bd51730796dc2",
+  "active": "90d21c111fad1058",
   "lastOpenFiles": [
+    "git/versionsverwaltung.md",
+    "git/uebersicht.md",
+    "git/konzept.md",
+    "start/style-guide.md",
+    "start/contribution.md",
+    "git/interface.md",
+    "templates/default-template.mdx",
+    "templates/slide-template.md",
+    "git/tooling.md",
+    "git/objects.md",
+    "templates/slide-template.mdx",
+    "review/Managing the Arch Linux Keyring - A Comprehensive Guide.md",
+    "templates/default-template.md",
+    "astro/komponenten.md",
+    "astro/projektinitialisierung.md",
+    "astro/projektstruktur.md",
+    "astro/interaktive-inseln.md",
+    "astro/einleitung.md",
+    "csharp/dotnet-cli.md",
+    "devsetup/vscode-sqltools.md",
+    "assets/Pasted image 20240403140753.png",
+    "drafts/Yield.md",
+    "drafts/(.md",
+    "drafts/Git installieren.md",
     "drafts/flexbox.md",
     "start/start.mdx",
-    "start/contribution.md",
     "start/overview.md",
     "drafts/slides-recovery.md",
-    "drafts/Yield.md",
     "drafts/motioncanvas-flow.md",
-    "drafts/motioncanvas-basics.md",
-    "drafts/motion-canvas-intro.md",
-    "drafts/Git installieren.md",
-    "drafts/grid.md",
-    "drafts/git-fuer-anfaenger.md",
-    "drafts/Untitled.md",
-    "drafts/htmx-introduction.md",
     "index.mdx",
     "webentwicklung/fonts.mdx",
-    "webentwicklung/openssl.md",
-    "webentwicklung/formsalt.md",
-    "webentwicklung/forms.md",
     "assets/imgs/demo-screen.png",
     "assets/imgs",
     "assets/demo-variable-fonts.mp4",
     "webentwicklung/fonts 1.mdx",
-    "git/tooling.md",
     "assets/grid-form.png",
     "assets/Pasted image 20240327153849.png",
-    "webentwicklung/fonts.md",
-    "astro/projektstruktur.md",
-    "astro/projektinitialisierung.md",
-    "astro/komponenten.md",
-    "astro/einleitung.md",
-    "astro/interaktive-inseln.md",
     "assets/321-backup-strategy.jpg",
-    "csharp/dotnet-cli.md",
-    "git/interface.md",
     "slides",
     "review",
-    "devsetup",
-    "webentwicklung",
     "assets/github-monaspace-1.png",
     "assets/roboto-font-project.png",
     "assets/roboto-font-raw-console.png",
     "assets/roboto-font-folder.png",
-    "assets/git-cheat-sheet.png",
-    "assets/github-monaspace-2.png"
+    "assets/git-cheat-sheet.png"
   ]
 }

@@ -4,7 +4,6 @@ description: Ein kurzer Überblick zu AstroJS
 sidebar:
   order: 0
 ---
-# 🤔Was Ist Astro?
 
 Astro ist ein Webserver-Framework, wie z.B. auch ***ASP.NET***, **Springboot**, **Django**, **Express.js**, **RubyOnRails**, **Laravell** oder ähnlichen.
 

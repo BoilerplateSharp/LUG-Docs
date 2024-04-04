@@ -4,7 +4,6 @@ description: Wie man ein neues Astro-Projekt aufsetzt.
 sidebar:
   order: 1
 ---
-# 🚧Projektinitialisierung
 
 Ein neues Astro-Projekt kann mit folgendem Command initialisiert werden. Wenn ihr nicht bereits in einem leerem Ordner für euer Projekt seid, erstellt der Command diesen Ordner automatisch für euch.
 

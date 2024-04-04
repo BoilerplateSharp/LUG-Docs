@@ -3,7 +3,6 @@ title: Datenbanken verwalten mit SQLTools-VSCode Extension
 description: Eine kurze Anleitung, wie man eine Datenbank mit der SQLTools-Erweiterung für VSCode verwalten kann.
 author: Alexander Lorengel
 ---
-# Datenbanken verwalten mit SQLTools für VSCode
 
 Zuerst muss die `SQLTools` Erweiterung installiert werden. Dazu benötigen wir, je nachdem welches Datenbanksystem wir verwenden, einen passenden Adapter. Wir gehen hier von einer `MariaDB` SQL-Datenbank aus:
 
