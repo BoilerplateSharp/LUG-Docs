@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/style-guide.md",
+                "file": "start/style-guide.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "start/style-guide.md",
+                "file": "start/style-guide.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "start/style-guide.md",
+                "file": "start/style-guide.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "start/style-guide.md"
+                "file": "start/style-guide.mdx"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -152,9 +152,17 @@
   },
   "active": "ee9e70ac7654d628",
   "lastOpenFiles": [
-    "start/start.mdx",
+    "start/contribution.mdx",
     "start/overview.md",
+    "csharp/dotnet-cli.md",
+    "devsetup/vscode-sqltools.md",
+    "start/style-guide.mdx",
+    "start/start.mdx",
+    "index.mdx",
     "start/contribution.md",
+    "devsetup/windows-developers.mdx",
+    "devsetup/windows-developers.md",
+    "start/style-guide.md",
     "assets/fork-docs-github.png",
     "assets/edit-page-link.png",
     "git/versionsverwaltung.md",
@@ -164,8 +172,6 @@
     "git/konzept.md",
     "git/interface.md",
     "webentwicklung/forms.md",
-    "index.mdx",
-    "start/style-guide.md",
     "assets/asides.png",
     "drafts/git-fuer-anfaenger.md",
     "drafts/Git installieren.md",
@@ -179,21 +185,15 @@
     "astro/projektstruktur.md",
     "astro/interaktive-inseln.md",
     "astro/einleitung.md",
-    "csharp/dotnet-cli.md",
-    "devsetup/vscode-sqltools.md",
     "drafts/Yield.md",
     "drafts/(.md",
-    "drafts/flexbox.md",
     "webentwicklung/fonts.mdx",
     "assets/imgs/demo-screen.png",
     "assets/imgs",
     "assets/demo-variable-fonts.mp4",
-    "webentwicklung/fonts 1.mdx",
     "assets/grid-form.png",
     "assets/Pasted image 20240327153849.png",
     "assets/321-backup-strategy.jpg",
-    "slides",
-    "review",
     "assets/github-monaspace-1.png",
     "assets/roboto-font-project.png",
     "assets/roboto-font-raw-console.png"
