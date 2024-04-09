@@ -1,6 +1,8 @@
 ---
 title: Die Geschichte
 description: Eine kurze Zusammenfassung der Geschichte hinter Linux und der Open-Source Community.
+sidebar:
+  order: 1
 ---
 
 

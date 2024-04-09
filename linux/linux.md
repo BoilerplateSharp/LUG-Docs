@@ -1,6 +1,8 @@
 ---
 title: Linux für Einsteiger
 description: Eine Übersicht über die bereits vorhandenen Dokumente zum Thema Linux für Einsteiger.
+sidebar:
+  order: 0
 ---
 
 Das folgende dient lediglich als Platzhalter für eine Themenübersicht, inklusive Bearbeitungsstatus:

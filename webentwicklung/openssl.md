@@ -2,7 +2,6 @@
 title: Wie man eine SSL-Zertifikatsauthorität wird
 description: Alles wichtige zum Erstellen von SSL-Zertifikaten, zum entwickeln von Web-Apps mit https.
 ---
-## So funktioniert es
 
 Um ein SSL-Zertifikat von einer CA wie Verisign oder GoDaddy anzufordern, sendest du ihnen eine Certificate Signing Request (CSR), und sie geben dir im Gegenzug ein SSL-Zertifikat, das sie mit ihrem Root-Zertifikat und dem privaten Schlüssel signiert haben. Alle Browser haben eine Kopie (oder Zugriff auf eine Kopie vom Betriebssystem) des Root-Zertifikats von verschiedenen CAs. Dadurch kann der Browser überprüfen, dass dein Zertifikat von einer vertrauenswürdigen CA signiert wurde.
 
