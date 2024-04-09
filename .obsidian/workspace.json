@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "723cc2f21201287a",
+        "id": "0b769745031fa4c7",
         "type": "tabs",
         "children": [
           {
-            "id": "272ec79d47f1ecff",
+            "id": "9c06fd5af4986d1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/linux.md",
+                "file": "linux/linux-fs.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5026054382324
+    "width": 471.5026054382324
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/linux.md",
+                "file": "linux/linux-fs.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/linux.md",
+                "file": "linux/linux-fs.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/linux.md"
+                "file": "linux/linux-fs.mdx"
               }
             }
           }
@@ -150,53 +150,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "95302232c3a31d29",
+  "active": "9c06fd5af4986d1f",
   "lastOpenFiles": [
-    "notion-export/die geschichte von linux/untitled.png",
-    "notion-export/die geschichte von linux/foss-boss.jpg",
-    "notion-export/die geschichte von linux/winrar_moneten.png",
-    "notion-export/die geschichte von linux/7skffx.jpg",
-    "notion-export/die geschichte von linux",
-    "notion-export/webentwicklung-projektarten.md",
-    "notion-export/vorlage wikipost.md",
-    "notion-export/visualisierung http-kommunikation.md",
-    "notion-export/unsere erste crud-api.md",
-    "notion-export/thread-safety in asp net.md",
-    "notion-export/template it-artikel.md",
-    "notion-export/html,css,js - noobtopro.md",
-    "notion-export/hands-on arbeiten mit git.md",
+    "assets/linux-fs.png",
+    "linux/linux.md",
+    "linux/linux-die-erste-stunde.mdx",
+    "linux/linux-geschichte.md",
+    "linux/linux-fs.mdx",
+    "assets/polymerisation.png",
+    "assets/kapitalismus.jpg",
+    "local/a guided tour….md",
+    "local/hands-on arbeiten mit git.md",
     "notion-export/getting started with notion.md",
     "notion-export/einleitung was ist git und github.md",
-    "notion-export/content-guide c# (wip)/zeichenkettenverarbeitung und formatierte ausgaben.md",
-    "notion-export/content-guide c# (wip)/fehlerbehandlung.md",
+    "notion-export/einführung in das git command-line-interface.md",
+    "notion-export/der github-flow fork-feature-merge.md",
+    "local/asp net ef-core und orm’s/ef-core.png",
+    "notion-export/client-server kommunikation/web-server-theorie.png",
     "notion-export/content-guide c# (wip)/xml als datenaustauschformat und xml-schema dateie.md",
-    "notion-export/content-guide c# (wip)/windows-dienste programmieren und verwalten.md",
-    "notion-export/content-guide c# (wip)/serialisierung (binär, xml, json und data contrac.md",
-    "notion-export/content-guide c# (wip)/typinferenz, lambda-ausdrücke, erweiterungsmethod.md",
-    "notion-export/content-guide c# (wip)/threading, asynchrone methodenaufrufe.md",
-    "notion-export/content-guide c# (wip)/sicherheitsaspekte von net.md",
     "notion-export/content-guide c# (wip)/objektinitialisierung, anonyme typen.md",
-    "notion-export/content-guide c# (wip)/logging und debugging.md",
-    "notion-export/content-guide c# (wip)/einführung in das framework ado net für datenban.md",
-    "notion-export/content-guide c# (wip)/grundprinzipien der objektorientierten softwareent.md",
-    "notion-export/content-guide c# (wip)/grundlagen zur programmierung mit der reflection-a.md",
-    "notion-export/content-guide c# (wip)/elementare sprachelemente, syntax und semantik der.md",
     "notion-export/content-guide c# (wip)/die integrierte entwicklungsumgebung visual studio.md",
-    "notion-export/content-guide c# (wip)",
-    "notion-export/powershell - deutsch/powershell für sys-admins",
-    "notion-export/powershell - deutsch/powershell aufgaben_all.csv",
-    "notion-export/powershell - deutsch/powershell aufgaben.csv",
-    "notion-export/powershell - deutsch/powershell aufgaben",
-    "notion-export/powershell - deutsch",
+    "notion-export/content-guide c# (wip)/collections und generische klassen.md",
+    "notion-export/content-guide c# (wip)/charakteristische merkmale und möglichkeiten.md",
+    "notion-export/debugging-abenteuer mit scvmm/untitled 1.png",
+    "notion-export/debugging-abenteuer mit scvmm/untitled.png",
+    "notion-export/debugging-abenteuer mit scvmm/untitled.gif",
+    "notion-export/lessonideas/unbenannt (3).md",
+    "notion-export/lessonideas/unbenannt (2).md",
+    "notion-export/lessonideas/unbenannt.md",
     "notion-export/openapi-standart (swagger)/openapi_aka_swagger.png",
-    "notion-export/openapi-standart (swagger)",
-    "notion-export/lessonideas",
-    "notion-export/installation von linux über wsl/untitled.png",
-    "notion-export/installation von linux über wsl",
-    "notion-export/installation von linux über hyperv/untitled.png",
-    "notion-export/installation von linux über hyperv/untitled 9.png",
-    "notion-export/installation von linux über hyperv/untitled 8.png",
-    "notion-export/installation von linux über hyperv/untitled 7.png",
-    "notion-export/installation von linux über hyperv/untitled 6.png"
+    "notion-export/webentwicklung-projektarten/untitled 2.png",
+    "notion-export/webentwicklung-projektarten/untitled 1.png",
+    "local/das dateisystem.md",
+    "notion-export/content-guide c# (wip).md",
+    "notion-export/content-guide.md",
+    "local/lernressourcen.md",
+    "notion-export/kurzanleitung erstellen und hochladen eines repos .md",
+    "notion-export/linux.md",
+    "local/installation von linux über hyperv.md",
+    "local/installation von linux über wsl.md",
+    "notion-export/debugging-abenteuer mit scvmm.md",
+    "local",
+    "local/die geschichte von linux",
+    "notion-export/content-guide c# (wip)",
+    "local/powershell - deutsch/powershell für sys-admins",
+    "local/powershell - deutsch/powershell aufgaben_all.csv",
+    "local/powershell - deutsch/powershell aufgaben.csv",
+    "local/powershell - deutsch/powershell aufgaben",
+    "local/powershell - deutsch"
   ]
 }
