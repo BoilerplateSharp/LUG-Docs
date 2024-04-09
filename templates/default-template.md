@@ -1,12 +1,6 @@
 ---
 title: Default Template
 description: Ein simples Layout für neue Docs
-prev:
-  label: Zurück Text
-  link: /start/start
-next:
-  label: Weiter Text
-  link: /
 sidebar:
   order: 0
   badge: new | tip | caution | danger | success
