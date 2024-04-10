@@ -28,7 +28,7 @@ In Kurz: Linux ist 1992 kostenlos zu nutzen und kann ohne Erwerb einer kostspiel
 > It’s better, when it’s free
 > - Linus Torvalds
 
-![winrar_moneten](/assets/winrar_moneten.png)
+![winrar_moneten](../assets/winrar_moneten.png)
 
 ## Offene Quelle 🔓
 
@@ -37,7 +37,7 @@ Der Source-Code von Linux ist offen. Das bedeutet, dass jeder sich den Quellcode
 > „Die Entscheidung, Linux unter die GPL zu stellen, war definitiv das Beste, was ich je getan habe.“
 > 
 
-![foss-boss](/assets/foss-boss.jpg)
+![foss-boss](../assets/foss-boss.jpg)
 
 ## Party like it’s 1969 🕺
 
@@ -45,7 +45,7 @@ Kleiner Sprung zurück in der Zeit: Während die Meisten das Jahr 1969 wegen dem
 
 In den 80ern wurde UNIX von AT&T, der Firma, wo die beiden damals arbeiteten, kommerzialisiert. 1977 wurde beispielsweise die Universität von Berkeley von AT&T für die nicht lizenzierte Nutzung von UNIX verklagt. Dies war der Start der sogenannten “Unix Wars”.  Aber dazu vielleicht an anderer Stelle mehr…
 
-![kapitalismus](/assets/kapitalismus.jpg)
+![kapitalismus](../assets/kapitalismus.jpg)
 
 UNIX war, im übrigen, auch das erste Betriebssystem mit einem hierarchischem und baumartigen aufgebauten Dateisystem.
 
@@ -67,7 +67,7 @@ Nach der Veröffentlichung des Linux Kernels, haben einige Entwickler angefangen
 - Softlanding
 - Debian 😍
 
-![polymerisation](/assets/polymerisation.png)
+![polymerisation](../assets/polymerisation.png)
 
 # Takeaways:
 

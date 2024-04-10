@@ -77,19 +77,19 @@ import { Steps } from '@astrojs/starlight/components';
 <Steps>
 
 1. **Quellcode herunterladen:** Lade den Quellcode der gewünschten Software aus dem entsprechenden Github-Repository runter und wechsel anschließend in das Verzeichnis:
-   ```shell
+   ```shell title="downloading source..."
    git clone https://github.com/htop-dev/htop.git
    ```
 2. **Konfigurieren:** Führe die Konfigurationsbefehle aus, der oft `./configure` ist. In diesem Fall sind es 2 Commands:
-   ```shell
+   ```shell title="configure install"
    ./autogen && ./configure
    ```
 3. **Kompilieren:** Kompiliere den Quellcode mit dem Befehl `make`.
-   ```shell
+   ```shell title="compiling..."
    make
    ```
 4. **Installieren:** Installier die Software mit dem folgendem Befehl:
-   ```shell
+   ```shell title="installing software..."
    make install
    ```
 </Steps>

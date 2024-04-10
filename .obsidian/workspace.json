@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b769745031fa4c7",
+        "id": "86ee3d71821ead2d",
         "type": "tabs",
         "children": [
           {
-            "id": "d1dbe452bc72218c",
+            "id": "6ef97f87d111ab96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux-die-erste-stunde.mdx",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -50,7 +46,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 372.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/linux-die-erste-stunde.mdx",
+                "file": "local/html,css,js - noobtopro/projekte/memory/losung~1.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/linux-die-erste-stunde.mdx",
+                "file": "local/html,css,js - noobtopro/projekte/memory/losung~1.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/linux-die-erste-stunde.mdx"
+                "file": "local/html,css,js - noobtopro/projekte/memory/losung~1.MD"
               }
             }
           }
@@ -150,47 +147,48 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d1dbe452bc72218c",
+  "active": "95302232c3a31d29",
   "lastOpenFiles": [
-    "linux/linux.md",
-    "linux/linux-die-erste-stunde.mdx",
-    "linux/linux-fs.mdx",
     "linux/linux-geschichte.md",
+    "git/versionsverwaltung.md",
+    "git/konzept.md",
+    "devsetup/vscode-sqltools.md",
+    "linux/linux-fs.mdx",
+    "local/powershell - deutsch/powershell - sortieren und filtern von daten.md",
+    "local/powershell - deutsch/powershell - zusätzliche ressourcen aller art.md",
+    "local/powershell - deutsch/powershell für sys-admins.md",
+    "local/powershell - deutsch/powershell-datentypen-casting.md",
+    "local/powershell - deutsch/powershell-parsing.md",
+    "local/powershell - deutsch/powershell-task-scheduling.md",
+    "local/powershell - deutsch/powershell-scripts.md",
+    "local/powershell - deutsch/powershell - whatif.md",
+    "local/powershell - deutsch/powershell - variablen und datentypen.md",
+    "local/powershell - deutsch/powershell - variablen.md",
+    "local/powershell - deutsch/powershell - reservierte und automatische variable.md",
+    "local/powershell - deutsch/powershell - regex und pattern-matching.md",
+    "local/powershell - deutsch/powershell - pipelines.md",
+    "local/powershell - deutsch/powershell - parameterübergabe.md",
+    "local/powershell - deutsch/powershell - objekte & klassen.md",
+    "local/powershell - deutsch/powershell - nützliche cmdlet’s.md",
+    "local/powershell - deutsch/powershell - module.md",
+    "local/powershell - deutsch/powershell - funktionen.md",
+    "local/powershell - deutsch/powershell - gallery.md",
+    "local/powershell - deutsch/powershell - iteration & schleifen.md",
+    "local/powershell - deutsch/powershell - kontrollstrukturen.md",
+    "local/powershell - deutsch/powershell - parametervalidierung.md",
     "linux/linux-paketmanagement.mdx",
+    "linux/linux-die-erste-stunde.mdx",
     "webentwicklung/fonts.mdx",
-    "webentwicklung/forms.md",
-    "webentwicklung/openssl.md",
-    "drafts/linux-paketmanagement.md",
     "assets/linux-fs.png",
     "assets/polymerisation.png",
     "assets/kapitalismus.jpg",
-    "local/a guided tour….md",
-    "local/hands-on arbeiten mit git.md",
-    "notion-export/getting started with notion.md",
-    "notion-export/einleitung was ist git und github.md",
-    "notion-export/einführung in das git command-line-interface.md",
-    "notion-export/der github-flow fork-feature-merge.md",
     "local/asp net ef-core und orm’s/ef-core.png",
     "notion-export/client-server kommunikation/web-server-theorie.png",
-    "notion-export/content-guide c# (wip)/xml als datenaustauschformat und xml-schema dateie.md",
-    "notion-export/content-guide c# (wip)/objektinitialisierung, anonyme typen.md",
-    "notion-export/content-guide c# (wip)/die integrierte entwicklungsumgebung visual studio.md",
-    "notion-export/content-guide c# (wip)/collections und generische klassen.md",
-    "notion-export/content-guide c# (wip)/charakteristische merkmale und möglichkeiten.md",
     "notion-export/debugging-abenteuer mit scvmm/untitled 1.png",
     "notion-export/debugging-abenteuer mit scvmm/untitled.png",
     "notion-export/debugging-abenteuer mit scvmm/untitled.gif",
-    "notion-export/lessonideas/unbenannt (3).md",
-    "notion-export/lessonideas/unbenannt (2).md",
-    "notion-export/lessonideas/unbenannt.md",
     "notion-export/openapi-standart (swagger)/openapi_aka_swagger.png",
     "notion-export/webentwicklung-projektarten/untitled 2.png",
-    "local/das dateisystem.md",
-    "notion-export/content-guide c# (wip).md",
-    "notion-export/content-guide.md",
-    "local/lernressourcen.md",
-    "notion-export/kurzanleitung erstellen und hochladen eines repos .md",
-    "notion-export/linux.md",
     "local",
     "local/die geschichte von linux",
     "notion-export/content-guide c# (wip)",
