@@ -11,7 +11,7 @@ Um mit Git in Symbiose zusammen arbeiten zu können, sollte man die zugrundelege
 
 Wie jedes gute Tutorial starten wir mit einer kleinen *Geschichtsstunde* und *Erläuterung*. Vielleicht nicht der spannendste Start, aber um zu verstehen, welchen *Mehrwert* uns Git konkret bringt, und warum es die moderne Softwareentwicklung so sehr geprägt hat, hilft es zu verstehen, was Git von anderer Versionsverwaltungssoftware abhebt.
 
-[Versionsverwaltung](versionsverwaltung)
+[Versionsverwaltung](/git/versionsverwaltung)
 
 ## 1. Das Konzept
 

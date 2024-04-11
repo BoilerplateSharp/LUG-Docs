@@ -11,8 +11,12 @@
             "id": "6ef97f87d111ab96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "git/uebersicht.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5026054382324,
-    "collapsed": true
+    "width": 372.5026054382324
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "local/html,css,js - noobtopro/projekte/memory/losung~1.MD",
+                "file": "git/uebersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "local/html,css,js - noobtopro/projekte/memory/losung~1.MD",
+                "file": "git/uebersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "local/html,css,js - noobtopro/projekte/memory/losung~1.MD"
+                "file": "git/uebersicht.md"
               }
             }
           }
@@ -147,8 +150,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "95302232c3a31d29",
+  "active": "6ef97f87d111ab96",
   "lastOpenFiles": [
+    "git/Versionsverwaltung.md",
+    "git/interface.md",
+    "index.mdx",
     "linux/linux-geschichte.md",
     "git/versionsverwaltung.md",
     "git/konzept.md",
@@ -174,8 +180,6 @@
     "local/powershell - deutsch/powershell - funktionen.md",
     "local/powershell - deutsch/powershell - gallery.md",
     "local/powershell - deutsch/powershell - iteration & schleifen.md",
-    "local/powershell - deutsch/powershell - kontrollstrukturen.md",
-    "local/powershell - deutsch/powershell - parametervalidierung.md",
     "linux/linux-paketmanagement.mdx",
     "linux/linux-die-erste-stunde.mdx",
     "webentwicklung/fonts.mdx",
@@ -193,7 +197,6 @@
     "local/die geschichte von linux",
     "notion-export/content-guide c# (wip)",
     "local/powershell - deutsch/powershell für sys-admins",
-    "local/powershell - deutsch/powershell aufgaben_all.csv",
-    "local/powershell - deutsch/powershell aufgaben.csv"
+    "local/powershell - deutsch/powershell aufgaben_all.csv"
   ]
 }
