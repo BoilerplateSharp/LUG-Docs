@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/uebersicht.md",
+                "file": "start/contribution.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/uebersicht.md",
+                "file": "start/contribution.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/uebersicht.md",
+                "file": "start/contribution.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/uebersicht.md"
+                "file": "start/contribution.mdx"
               }
             }
           }
@@ -150,53 +150,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6ef97f87d111ab96",
+  "active": "95302232c3a31d29",
   "lastOpenFiles": [
-    "git/Versionsverwaltung.md",
-    "git/interface.md",
-    "index.mdx",
-    "linux/linux-geschichte.md",
-    "git/versionsverwaltung.md",
-    "git/konzept.md",
-    "devsetup/vscode-sqltools.md",
-    "linux/linux-fs.mdx",
-    "local/powershell - deutsch/powershell - sortieren und filtern von daten.md",
-    "local/powershell - deutsch/powershell - zusätzliche ressourcen aller art.md",
-    "local/powershell - deutsch/powershell für sys-admins.md",
-    "local/powershell - deutsch/powershell-datentypen-casting.md",
-    "local/powershell - deutsch/powershell-parsing.md",
-    "local/powershell - deutsch/powershell-task-scheduling.md",
-    "local/powershell - deutsch/powershell-scripts.md",
-    "local/powershell - deutsch/powershell - whatif.md",
-    "local/powershell - deutsch/powershell - variablen und datentypen.md",
-    "local/powershell - deutsch/powershell - variablen.md",
-    "local/powershell - deutsch/powershell - reservierte und automatische variable.md",
-    "local/powershell - deutsch/powershell - regex und pattern-matching.md",
-    "local/powershell - deutsch/powershell - pipelines.md",
-    "local/powershell - deutsch/powershell - parameterübergabe.md",
-    "local/powershell - deutsch/powershell - objekte & klassen.md",
-    "local/powershell - deutsch/powershell - nützliche cmdlet’s.md",
-    "local/powershell - deutsch/powershell - module.md",
-    "local/powershell - deutsch/powershell - funktionen.md",
-    "local/powershell - deutsch/powershell - gallery.md",
-    "local/powershell - deutsch/powershell - iteration & schleifen.md",
-    "linux/linux-paketmanagement.mdx",
-    "linux/linux-die-erste-stunde.mdx",
-    "webentwicklung/fonts.mdx",
-    "assets/linux-fs.png",
-    "assets/polymerisation.png",
-    "assets/kapitalismus.jpg",
-    "local/asp net ef-core und orm’s/ef-core.png",
-    "notion-export/client-server kommunikation/web-server-theorie.png",
-    "notion-export/debugging-abenteuer mit scvmm/untitled 1.png",
+    "notion-export/webentwicklung-projektarten/untitled 2.png",
+    "notion-export/webentwicklung-projektarten/untitled.png",
+    "notion-export/webentwicklung-projektarten/untitled 1.png",
+    "notion-export/webentwicklung-projektarten",
+    "notion-export/debugging-abenteuer mit scvmm/untitled 4.png",
     "notion-export/debugging-abenteuer mit scvmm/untitled.png",
     "notion-export/debugging-abenteuer mit scvmm/untitled.gif",
-    "notion-export/openapi-standart (swagger)/openapi_aka_swagger.png",
-    "notion-export/webentwicklung-projektarten/untitled 2.png",
-    "local",
-    "local/die geschichte von linux",
+    "notion-export/debugging-abenteuer mit scvmm/untitled 9.png",
+    "notion-export/debugging-abenteuer mit scvmm/untitled 2.png",
+    "notion-export/debugging-abenteuer mit scvmm/untitled 8.png",
+    "notion-export/debugging-abenteuer mit scvmm/untitled 7.png",
+    "notion-export/debugging-abenteuer mit scvmm/untitled 6.png",
+    "notion-export/debugging-abenteuer mit scvmm",
+    "notion-export/content-guide c# (wip)/fehlerbehandlung.md",
+    "notion-export/content-guide c# (wip)/windows-dienste programmieren und verwalten.md",
+    "notion-export/content-guide c# (wip)/zeichenkettenverarbeitung und formatierte ausgaben.md",
+    "notion-export/content-guide c# (wip)/xml als datenaustauschformat und xml-schema dateie.md",
+    "notion-export/content-guide c# (wip)/typinferenz, lambda-ausdrücke, erweiterungsmethod.md",
+    "notion-export/content-guide c# (wip)/threading, asynchrone methodenaufrufe.md",
+    "notion-export/content-guide c# (wip)/serialisierung (binär, xml, json und data contrac.md",
+    "notion-export/content-guide c# (wip)/sicherheitsaspekte von net.md",
+    "notion-export/content-guide c# (wip)/objektinitialisierung, anonyme typen.md",
+    "notion-export/content-guide c# (wip)/logging und debugging.md",
+    "notion-export/content-guide c# (wip)/grundprinzipien der objektorientierten softwareent.md",
+    "notion-export/content-guide c# (wip)/grundlagen zur programmierung mit der reflection-a.md",
+    "notion-export/content-guide c# (wip)/einführung in das framework ado net für datenban.md",
+    "notion-export/content-guide c# (wip)/elementare sprachelemente, syntax und semantik der.md",
+    "notion-export/content-guide c# (wip)/collections und generische klassen.md",
+    "notion-export/content-guide c# (wip)/die integrierte entwicklungsumgebung visual studio.md",
+    "notion-export/content-guide c# (wip)/daten ein- und ausgabe mit streams.md",
+    "notion-export/content-guide c# (wip)/charakteristische merkmale und möglichkeiten.md",
+    "notion-export/content-guide c# (wip)/abfragen von daten mit linq (language-integrated q.md",
     "notion-export/content-guide c# (wip)",
+    "notion-export/lessonideas.csv",
+    "notion-export/kurzanleitung erstellen und hochladen eines repos .md",
+    "notion-export/kleiner exkurs zu powershell.md",
+    "notion-export/interagieren mit dem dateisystem.md",
+    "notion-export/installation von linux mit scvmm.md",
+    "notion-export/getting started with notion.md",
+    "notion-export/einleitung was ist git und github.md",
+    "notion-export",
     "local/powershell - deutsch/powershell für sys-admins",
-    "local/powershell - deutsch/powershell aufgaben_all.csv"
+    "local/powershell - deutsch/powershell aufgaben_all.csv",
+    "local/powershell - deutsch/powershell aufgaben.csv",
+    "local/powershell - deutsch/powershell aufgaben",
+    "local/powershell - deutsch"
   ]
 }
