@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "start/contribution.mdx",
+                "file": "local/1linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "start/contribution.mdx",
+                "file": "local/1linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "start/contribution.mdx",
+                "file": "local/1linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "start/contribution.mdx"
+                "file": "local/1linux.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "95302232c3a31d29",
   "lastOpenFiles": [
+    "index.mdx",
+    "start/contribution.mdx",
     "notion-export/webentwicklung-projektarten/untitled 2.png",
     "notion-export/webentwicklung-projektarten/untitled.png",
     "notion-export/webentwicklung-projektarten/untitled 1.png",
@@ -163,7 +165,6 @@
     "notion-export/debugging-abenteuer mit scvmm/untitled 2.png",
     "notion-export/debugging-abenteuer mit scvmm/untitled 8.png",
     "notion-export/debugging-abenteuer mit scvmm/untitled 7.png",
-    "notion-export/debugging-abenteuer mit scvmm/untitled 6.png",
     "notion-export/debugging-abenteuer mit scvmm",
     "notion-export/content-guide c# (wip)/fehlerbehandlung.md",
     "notion-export/content-guide c# (wip)/windows-dienste programmieren und verwalten.md",
@@ -196,7 +197,6 @@
     "local/powershell - deutsch/powershell für sys-admins",
     "local/powershell - deutsch/powershell aufgaben_all.csv",
     "local/powershell - deutsch/powershell aufgaben.csv",
-    "local/powershell - deutsch/powershell aufgaben",
-    "local/powershell - deutsch"
+    "local/powershell - deutsch/powershell aufgaben"
   ]
 }
