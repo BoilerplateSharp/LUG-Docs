@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86ee3d71821ead2d",
+        "id": "bdec76c7af57d3a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef97f87d111ab96",
+            "id": "1cdc49f42156df51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "local/1linux.md",
+                "file": "devsetup/_windows-developers.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5026054382324
+    "width": 382.5026054382324
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "local/1linux.md",
+                "file": "devsetup/_windows-developers.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "local/1linux.md",
+                "file": "devsetup/_windows-developers.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "local/1linux.md"
+                "file": "devsetup/_windows-developers.mdx"
               }
             }
           }
@@ -150,53 +150,52 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "95302232c3a31d29",
+  "active": "1cdc49f42156df51",
   "lastOpenFiles": [
-    "index.mdx",
     "start/contribution.mdx",
+    "assets/github-open-pull-request.png",
+    "assets/github-comparing-changes.png",
+    "assets/github-propose-changes.png",
+    "assets/github-making-changes.png",
+    "linux/linux-paketmanagement.mdx",
+    "start/style-guide.mdx",
+    "linux/linux-die-erste-stunde.mdx",
+    "drafts/flexbox.md",
+    "notion-export/_webentwicklung-projektarten.md",
+    "notion-export/_vorlage wikipost.md",
+    "notion-export/_sql - übersicht.md",
+    "notion-export/visualisierung http-kommunikation.md",
+    "notion-export/unsere erste crud-api.md",
+    "notion-export/thread-safety in asp net.md",
+    "notion-export/template it-artikel.md",
+    "notion-export/_openapi-standart (swagger).md",
+    "local/powershell - deutsch/_was ist powershell.md",
+    "notion-export/linux.md",
+    "local/powershell - deutsch/powershell-pattern-matching.md",
+    "local/powershell - deutsch/_powershell-parsing.md",
+    "local/powershell - deutsch/powershell aufgaben/_datentypen konvertieren.md",
+    "local/powershell - deutsch/powershell aufgaben/_csv-vergleichen.md",
+    "local/powershell - deutsch/powershell aufgaben/_common information module.md",
+    "local/powershell - deutsch/powershell aufgaben/_benutzer anlegen.md",
+    "local/powershell - deutsch/powershell - variablen.md",
+    "local/powershell - deutsch/_powershell - variablen und datentypen.md",
+    "local/powershell - deutsch/_powershell - whatif.md",
+    "local/powershell - deutsch/_powershell - zusätzliche ressourcen aller art.md",
+    "local/powershell - deutsch/_powershell für sys-admins.md",
+    "local/powershell - deutsch/powershell-arrays.md",
+    "local/powershell - deutsch/powershell-cim.md",
+    "local/powershell - deutsch/powershell-cmdlets.md",
+    "assets/ms900-anmeldung/ms900-agb.mp4",
+    "assets/imgs/demo-screen.png",
+    "assets/ms900-anmeldung/ms900-0.png",
+    "assets/ms900-anmeldung/ms900-4.png",
+    "assets/ms900-anmeldung/ms900-3.png",
+    "assets/ms900-anmeldung/ms900-1.png",
+    "linux/linux-fs.mdx",
+    "index.mdx",
     "notion-export/webentwicklung-projektarten/untitled 2.png",
-    "notion-export/webentwicklung-projektarten/untitled.png",
-    "notion-export/webentwicklung-projektarten/untitled 1.png",
     "notion-export/webentwicklung-projektarten",
-    "notion-export/debugging-abenteuer mit scvmm/untitled 4.png",
-    "notion-export/debugging-abenteuer mit scvmm/untitled.png",
-    "notion-export/debugging-abenteuer mit scvmm/untitled.gif",
-    "notion-export/debugging-abenteuer mit scvmm/untitled 9.png",
-    "notion-export/debugging-abenteuer mit scvmm/untitled 2.png",
-    "notion-export/debugging-abenteuer mit scvmm/untitled 8.png",
-    "notion-export/debugging-abenteuer mit scvmm/untitled 7.png",
     "notion-export/debugging-abenteuer mit scvmm",
-    "notion-export/content-guide c# (wip)/fehlerbehandlung.md",
-    "notion-export/content-guide c# (wip)/windows-dienste programmieren und verwalten.md",
-    "notion-export/content-guide c# (wip)/zeichenkettenverarbeitung und formatierte ausgaben.md",
-    "notion-export/content-guide c# (wip)/xml als datenaustauschformat und xml-schema dateie.md",
-    "notion-export/content-guide c# (wip)/typinferenz, lambda-ausdrücke, erweiterungsmethod.md",
-    "notion-export/content-guide c# (wip)/threading, asynchrone methodenaufrufe.md",
-    "notion-export/content-guide c# (wip)/serialisierung (binär, xml, json und data contrac.md",
-    "notion-export/content-guide c# (wip)/sicherheitsaspekte von net.md",
-    "notion-export/content-guide c# (wip)/objektinitialisierung, anonyme typen.md",
-    "notion-export/content-guide c# (wip)/logging und debugging.md",
-    "notion-export/content-guide c# (wip)/grundprinzipien der objektorientierten softwareent.md",
-    "notion-export/content-guide c# (wip)/grundlagen zur programmierung mit der reflection-a.md",
-    "notion-export/content-guide c# (wip)/einführung in das framework ado net für datenban.md",
-    "notion-export/content-guide c# (wip)/elementare sprachelemente, syntax und semantik der.md",
-    "notion-export/content-guide c# (wip)/collections und generische klassen.md",
-    "notion-export/content-guide c# (wip)/die integrierte entwicklungsumgebung visual studio.md",
-    "notion-export/content-guide c# (wip)/daten ein- und ausgabe mit streams.md",
-    "notion-export/content-guide c# (wip)/charakteristische merkmale und möglichkeiten.md",
-    "notion-export/content-guide c# (wip)/abfragen von daten mit linq (language-integrated q.md",
-    "notion-export/content-guide c# (wip)",
-    "notion-export/lessonideas.csv",
-    "notion-export/kurzanleitung erstellen und hochladen eines repos .md",
-    "notion-export/kleiner exkurs zu powershell.md",
-    "notion-export/interagieren mit dem dateisystem.md",
-    "notion-export/installation von linux mit scvmm.md",
-    "notion-export/getting started with notion.md",
-    "notion-export/einleitung was ist git und github.md",
-    "notion-export",
-    "local/powershell - deutsch/powershell für sys-admins",
-    "local/powershell - deutsch/powershell aufgaben_all.csv",
-    "local/powershell - deutsch/powershell aufgaben.csv",
-    "local/powershell - deutsch/powershell aufgaben"
+    "notion-export/content-guide c# (wip)"
   ]
 }
