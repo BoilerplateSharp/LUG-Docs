@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bdec76c7af57d3a0",
+        "id": "af0990d58ab4f6eb",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdc49f42156df51",
+            "id": "0ad5be20b55c6951",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "devsetup/_windows-developers.mdx",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5026054382324
+    "width": 371.5026054382324
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devsetup/_windows-developers.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devsetup/_windows-developers.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "devsetup/_windows-developers.mdx"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,16 +142,33 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1cdc49f42156df51",
+  "active": "0ad5be20b55c6951",
   "lastOpenFiles": [
-    "start/contribution.mdx",
-    "assets/github-open-pull-request.png",
-    "assets/github-comparing-changes.png",
-    "assets/github-propose-changes.png",
-    "assets/github-making-changes.png",
-    "linux/linux-paketmanagement.mdx",
-    "start/style-guide.mdx",
-    "linux/linux-die-erste-stunde.mdx",
+    "uml/class-diagram-svg.mdx",
+    "uml/activity-diagram-svg.mdx",
+    "uml/use-case-diagram-svg.mdx",
+    "uml/state-machine-diagram-svg.mdx",
+    "uml/sequence-diagram-svg.mdx",
+    "uml/class-diagram-docs.mdx",
+    "assets/class-diagram-students.svg",
+    "assets/class-diagram-car.svg",
+    "assets/class-diagram-composition.svg",
+    "assets/class-diagram-aggregation.svg",
+    "assets/class-diagram-inheritance.svg",
+    "assets/class-diagram-association.svg",
+    "assets/class-diagram-simplest.svg",
+    "uml/activity-diagram-docs.mdx",
+    "uml/use-case-diagram-docs.mdx",
+    "uml/state-machine-diagram-docs.mdx",
+    "uml/sequence-diagram-docs.mdx",
+    "assets/Untitled diagram-2024-04-15-091207.svg",
+    "assets/Untitled diagram-2024-04-15-091010 1.svg",
+    "assets/Untitled diagram-2024-04-15-091010.svg",
+    "uml/unified-modeling-language.md",
+    "uml/class-diagram.md",
+    "local/powershell - deutsch/powershell-module.md",
+    "local/powershell - deutsch/powershell-arrays.md",
+    "git/Versionsverwaltung.md",
     "drafts/flexbox.md",
     "notion-export/_webentwicklung-projektarten.md",
     "notion-export/_vorlage wikipost.md",
@@ -179,23 +188,6 @@
     "local/powershell - deutsch/powershell aufgaben/_benutzer anlegen.md",
     "local/powershell - deutsch/powershell - variablen.md",
     "local/powershell - deutsch/_powershell - variablen und datentypen.md",
-    "local/powershell - deutsch/_powershell - whatif.md",
-    "local/powershell - deutsch/_powershell - zusätzliche ressourcen aller art.md",
-    "local/powershell - deutsch/_powershell für sys-admins.md",
-    "local/powershell - deutsch/powershell-arrays.md",
-    "local/powershell - deutsch/powershell-cim.md",
-    "local/powershell - deutsch/powershell-cmdlets.md",
-    "assets/ms900-anmeldung/ms900-agb.mp4",
-    "assets/imgs/demo-screen.png",
-    "assets/ms900-anmeldung/ms900-0.png",
-    "assets/ms900-anmeldung/ms900-4.png",
-    "assets/ms900-anmeldung/ms900-3.png",
-    "assets/ms900-anmeldung/ms900-1.png",
-    "linux/linux-fs.mdx",
-    "index.mdx",
-    "notion-export/webentwicklung-projektarten/untitled 2.png",
-    "notion-export/webentwicklung-projektarten",
-    "notion-export/debugging-abenteuer mit scvmm",
-    "notion-export/content-guide c# (wip)"
+    "local/powershell - deutsch/_powershell - whatif.md"
   ]
 }
