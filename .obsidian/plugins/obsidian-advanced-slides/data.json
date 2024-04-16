@@ -1,7 +1,7 @@
 {
   "port": "3001",
   "autoReload": true,
-  "exportDirectory": "slides",
+  "exportDirectory": "_slide-exports",
   "enableChalkboard": false,
   "enableOverview": true,
   "enableMenu": true,
@@ -16,6 +16,6 @@
   "slideNumber": true,
   "showGrid": false,
   "autoComplete": "inPreview",
-  "paneMode": "split",
+  "paneMode": "tab",
   "motm": "2024-04-04T09:07:51.105Z"
 }

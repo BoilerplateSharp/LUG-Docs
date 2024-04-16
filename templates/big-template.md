@@ -6,4 +6,3 @@ sidebar:
   badge: new | tip | caution | danger | success
 ---
 
-# Default Template

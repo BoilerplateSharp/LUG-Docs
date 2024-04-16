@@ -5,7 +5,7 @@ sidebar:
   order: 4
 ---
 
-Paketmanagement ist ein zentrales Konzept in Linux-Betriebssystemen, das die Installation, Aktualisierung und Entfernung von Softwarepaketen erleichtert. Dieses Dokument bietet eine detaillierte Anleitung für verschiedene Aspekte des Paketmanagements.
+Paketmanagement ist ein zentrales Konzept in Linux-Betriebssystemen, das die Installation, Aktualisierung und Entfernung von Softwarepaketen erleichtert.
 
 ## apt
 
@@ -31,19 +31,26 @@ sudo apt update
 
 ### Aktualisierung installierter Pakete
 
-Um alle installierten Pakete auf die neueste Version zu aktualisieren, verwende den Befehl `apt upgrade`:
+Um alle installierten Pakete auf die neueste Version zu aktualisieren, verwende den Befehl `apt upgrade`. Mit `-y` kann man die Bestätigung (yes/no) überspringen.
 
 ```shell
 sudo apt upgrade
+# sudo apt upgrade -y
 ```
 
 ### Mirror-Verwaltung
 
-Ein Mirror ist ein Server, der eine Kopie der Softwarepakete und Updates für ein Linux-Betriebssystem hostet. Die Verwendung eines Mirrors, welcher näher am eigenen Standort ist, kann die Download-Zeiten verbessern und die Ausfallsicherheit erhöhen.
+Ein Mirror ist ein Server, der eine Kopie der Softwarepakete und Updates für ein Linux-Betriebssystem hostet. In einfach: **Ein Download-Server für Updates**
+
+Die Verwendung eines Mirrors, welcher näher am eigenen Standort ist, kann die Download-Zeiten verbessern und die Ausfallsicherheit erhöhen.
 
 ### Hinzufügen eines Mirror
 
-Um einen Mirror zu deinem System hinzuzufügen, bearbeite die Datei `/etc/apt/sources.list` und füge die URL des Mirrors hinzu.
+Um einen Mirror zu deinem System hinzuzufügen, bearbeite die Datei `/etc/apt/sources.list` und füge die URL des Mirrors hinzu. Alternativ, kannst du folgenden Befehl nutzen:
+
+```shell title="adding repository..."
+sudo add-apt-repository <repository-url>
+```
 
 ## Git Konfiguration
 
@@ -51,7 +58,7 @@ Git ist ein weit verbreitetes Versionskontrollsystem, das häufig für die Entwi
 
 ### Globale Git-Konfiguration
 
-Bevor wir mit Git arbeiten können, müssen wir unsere "Credentials" angeben. Verwende die folgenden Befehle und ersetze `name` und `email` durch deine eigenen Informationen:
+Bevor wir mit Git arbeiten können, müssen wir unsere "Credentials" angeben. Verwende die folgenden Befehle und ersetze die Platzhalter für `name` und `email` durch deine eigenen Informationen:
 
 ```shell
 git config --global user.name "Dein Name"
@@ -66,11 +73,11 @@ Die "Credentials" sind nur relevant für Änderungen die wir tätigen, was wir z
 
 ### Manuelle Installation mit make
 
-Manchmal müssen Softwarepakete manuell von Quellcode installiert werden, insbesondere wenn sie nicht in den Paketquellen Ihres Linux-Systems verfügbar sind. Die Verwendung von `make` ist eine häufige Methode zur manuellen Installation von Software.
+Manchmal müssen Softwarepakete manuell von Quellcode installiert werden, insbesondere wenn sie nicht in den Repositories des Linux-Systems verfügbar sind. Die Verwendung von `make` ist eine häufige Methode zur manuellen Installation von Software.
 
 #### Schritte zur manuellen Installation mit make
 
-Da die Konfiguration und auch die Installationsschritte manchmal etwas unterschiedlich sind, nehmen wir als Beispiel die Installation von `htop`:
+Da die Konfiguration, und auch die Installationsschritte, manchmal etwas unterschiedlich sind, nehmen wir als Beispiel die Installation von `htop`:
 
 import { Steps } from '@astrojs/starlight/components';
 
