@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dafa762d82878d14",
+            "id": "ebf37327e1aa2658",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "32330e8c5093ea77",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "972ca04229937290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux-installation.mdx",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/linux-installation.mdx",
+                "file": "slides/_slides-vms-aufsetzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/linux-installation.mdx",
+                "file": "slides/_slides-vms-aufsetzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/linux-installation.mdx"
+                "file": "slides/_slides-vms-aufsetzen.md"
               }
             }
           }
@@ -171,31 +150,42 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "972ca04229937290",
+  "active": "ebf37327e1aa2658",
   "lastOpenFiles": [
-    "linux/_linux.md",
-    "linux/linux-installation.mdx",
-    "linux/linux-paketmanagement.mdx",
-    "linux/linux-geschichte.md",
-    "linux/linux-fs.mdx",
-    "linux/linux-die-erste-stunde.mdx",
-    "linux/_linux-usermanagement.mdx",
-    "index.mdx",
+    "slides/_slides-vms-aufsetzen - Copy.md",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-9.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-8.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-7.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-6.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-5.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-4.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-30.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-3.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-29.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-28.png",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/_style.css",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/README.md",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/plugin (copy).js",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/style.css",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/plugin.js",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/img",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chart/README.md",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chart/chart.min.js",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chart/plugin.js",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/customcontrols/README.md",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/menu/README.md",
+    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/menu/CONTRIBUTING.md",
     "slides/_slides-vms-aufsetzen.md",
-    "_slide-exports/assets/scvmm/create-scvmm-9.png",
-    "_slide-exports/assets/scvmm/create-scvmm-8.png",
-    "_slide-exports/assets/scvmm/create-scvmm-7.png",
-    "_slide-exports/assets/scvmm/create-scvmm-14.png",
-    "_slide-exports/assets/scvmm/create-scvmm-4.png",
-    "_slide-exports/assets/scvmm/create-scvmm-6.png",
-    "_slide-exports/assets/scvmm/create-scvmm-5.png",
-    "_slide-exports/assets/scvmm/create-scvmm-30.png",
-    "_slide-exports/assets/scvmm/create-scvmm-3.png",
-    "_slide-exports/assets/scvmm/create-scvmm-15.png",
-    "_slide-exports/assets/scvmm",
-    "_slide-exports/assets",
-    "_slide-exports/New folder",
-    "_slide-exports/_slides-vms-aufsetzen/scvmm",
+    "_slide-exports/_slides-vms-aufsetzen/plugin/chalkboard/README.md",
+    "_slide-exports/_slides-vms-aufsetzen/plugin/chart/README.md",
+    "_slide-exports/_slides-vms-aufsetzen/plugin/customcontrols/README.md",
+    "_slide-exports/_slides-vms-aufsetzen/plugin/menu/README.md",
+    "_slide-exports/_slides-vms-aufsetzen/plugin/menu/CONTRIBUTING.md",
+    "linux/_linux.md",
+    "linux/linux-geschichte.md",
     "_slide-exports/slides-vms-aufsetzen/plugin/chalkboard/README.md",
     "_slide-exports/slides-vms-aufsetzen/plugin/chart/README.md",
     "_slide-exports/slides-vms-aufsetzen/plugin/customcontrols/README.md",
@@ -206,17 +196,6 @@
     "slides/exports/slides-vms-aufsetzen/plugin/customcontrols/README.md",
     "slides/exports/slides-vms-aufsetzen/plugin/menu/README.md",
     "slides/exports/slides-vms-aufsetzen/plugin/menu/CONTRIBUTING.md",
-    "templates/_tpl-image-btm-text.md",
-    "drafts/_yield.md",
-    "slides/_slides-recovery.md",
-    "drafts/_ms900-anmeldung.md",
-    "drafts/_motioncanvas-flow.md",
-    "drafts/_motioncanvas-basics.md",
-    "drafts/_motion-canvas-intro.md",
-    "drafts/_grid.md",
-    "slides/_slides-git-fuer-anfaenger.md",
-    "drafts/_Git installieren.md",
-    "drafts/_flexbox.md",
-    "review/Managing the Arch Linux Keyring - A Comprehensive Guide.md"
+    "templates/_tpl-image-btm-text.md"
   ]
 }
