@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slides/_slides-vms-aufsetzen.md",
+                "file": "linux/linux-networking.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5026054382324
+    "width": 233.5
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slides/_slides-vms-aufsetzen.md",
+                "file": "linux/linux-networking.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slides/_slides-vms-aufsetzen.md",
+                "file": "linux/linux-networking.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slides/_slides-vms-aufsetzen.md"
+                "file": "linux/linux-networking.mdx"
               }
             }
           }
@@ -152,6 +152,19 @@
   },
   "active": "ebf37327e1aa2658",
   "lastOpenFiles": [
+    "linux/linux-usermanagement.mdx",
+    "linux/linux-fs.mdx",
+    "linux/linux-networking.mdx",
+    "linux/linux-paketmanagement.mdx",
+    "linux/_linux-processes.mdx",
+    "linux/_linux-shells.mdx",
+    "linux/_linux-sadservers.mdx",
+    "linux/linux-die-erste-stunde.mdx",
+    "linux/_linux-logging.md",
+    "linux/_linux-cryptography.mdx",
+    "linux/_linux.md",
+    "linux/linux-geschichte.md",
+    "slides/_slides-vms-aufsetzen.md",
     "slides/_slides-vms-aufsetzen - Copy.md",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-9.png",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-8.png",
@@ -165,27 +178,16 @@
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-28.png",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/_style.css",
     "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/README.md",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/plugin (copy).js",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/style.css",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/plugin.js",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard/img",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chalkboard",
     "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chart/README.md",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chart/chart.min.js",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/chart/plugin.js",
     "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/customcontrols/README.md",
     "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/menu/README.md",
     "_slide-exports/_slides-vms-aufsetzen - Copy/plugin/menu/CONTRIBUTING.md",
-    "slides/_slides-vms-aufsetzen.md",
     "_slide-exports/_slides-vms-aufsetzen/plugin/chalkboard/README.md",
     "_slide-exports/_slides-vms-aufsetzen/plugin/chart/README.md",
     "_slide-exports/_slides-vms-aufsetzen/plugin/customcontrols/README.md",
     "_slide-exports/_slides-vms-aufsetzen/plugin/menu/README.md",
     "_slide-exports/_slides-vms-aufsetzen/plugin/menu/CONTRIBUTING.md",
-    "linux/_linux.md",
-    "linux/linux-geschichte.md",
     "_slide-exports/slides-vms-aufsetzen/plugin/chalkboard/README.md",
     "_slide-exports/slides-vms-aufsetzen/plugin/chart/README.md",
     "_slide-exports/slides-vms-aufsetzen/plugin/customcontrols/README.md",
@@ -195,7 +197,6 @@
     "slides/exports/slides-vms-aufsetzen/plugin/chart/README.md",
     "slides/exports/slides-vms-aufsetzen/plugin/customcontrols/README.md",
     "slides/exports/slides-vms-aufsetzen/plugin/menu/README.md",
-    "slides/exports/slides-vms-aufsetzen/plugin/menu/CONTRIBUTING.md",
-    "templates/_tpl-image-btm-text.md"
+    "slides/exports/slides-vms-aufsetzen/plugin/menu/CONTRIBUTING.md"
   ]
 }

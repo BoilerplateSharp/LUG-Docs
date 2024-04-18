@@ -31,7 +31,6 @@ Das folgende dient lediglich als Platzhalter für eine Themenübersicht, inklusi
     - [x] Manuelle Installation mit `make`
 - [ ] Netzwerkkommunikation
     - [ ] Firewall mit `ufw`
-    - [ ] Hostdatei?
 - [ ] SSH und Kryptographie
     - [ ] Verbindung über `ssh` mit Remote
     - [ ] Digitale Schlüssel mit GnuPG
