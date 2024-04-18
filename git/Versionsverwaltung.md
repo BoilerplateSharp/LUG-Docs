@@ -39,7 +39,7 @@ Da es lediglich einen zentralen Server gibt, wissen jederzeit alle Projektmitarb
 
 Der größte Nachteil liegt auf der Hand: Was wenn der zentrale VCS-Server nicht verfügbar ist? Jede Minute, wo der Server nicht erreichbar ist, übersetzt sich direkt in Produktivitätsverlust. Die Rechnung ist einfach: `Downtime Server * Anzahl Projektmitarbeiter = viel verbranntes Geld`... Yikes.
 
-Ein zentrales System hat jedoch noch andere Probleme. Was, wenn die Festplatte kaputt geht? Was, wenn Mitarbeiter remote arbeiten und stabiles Internet haben? 
+Ein zentrales System hat jedoch noch andere Probleme. Was, wenn die Festplatte kaputt geht? Was, wenn Mitarbeiter remote arbeiten und instabiles Internet haben? 
 
 ## Verteilte Versionsverwaltung
 
