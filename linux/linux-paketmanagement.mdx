@@ -67,7 +67,7 @@ git config --global user.email "deine@email.com"
 
 :::note
 
-Die "Credentials" sind nur relevant für Änderungen die wir tätigen, was wir zum bauen von Software nicht machen müssen. Jedoch ist es Best-Practice als Email die NoReply-Email von Github zu verwenden. Diese ist in den Account-[Einstellungen von Github](https://github.com/settings/emails) zu finden.
+Die "Credentials" sind nur relevant für Änderungen die wir tätigen, was wir zum bauen von Software nicht machen müssen. Jedoch ist es Best-Practice als Email die NoReply-Email von Github zu verwenden. Diese ist in den [Account-Einstellungen von Github](https://github.com/settings/emails) zu finden.
 
 :::
 
@@ -86,8 +86,9 @@ import { Steps } from '@astrojs/starlight/components';
 1. **Quellcode herunterladen:** Lade den Quellcode der gewünschten Software aus dem entsprechenden Github-Repository runter und wechsel anschließend in das Verzeichnis:
    ```shell title="downloading source..."
    git clone https://github.com/htop-dev/htop.git
+   cd ./htop
    ```
-2. **Konfigurieren:** Führe die Konfigurationsbefehle aus, der oft `./configure` ist. In diesem Fall sind es 2 Commands:
+2. **Konfigurieren:** Führe die Konfigurationsbefehle aus, oft ist es einfach `./configure`. In diesem Fall sind es 2 Commands:
    ```shell title="configure install"
    ./autogen && ./configure
    ```
@@ -99,5 +100,9 @@ import { Steps } from '@astrojs/starlight/components';
    ```shell title="installing software..."
    make install
    ```
-</Steps>
+5. **Genießen:** Jetzt ist die Software installiert und kann jederzeit genutzt werden:
+   ```shell title="htop"
+   htop
+   ```
 
+</Steps>
