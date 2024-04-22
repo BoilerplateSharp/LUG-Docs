@@ -11,8 +11,6 @@ sidebar:
 - [ ] alternative shells `zsh`
 - [ ] terminal multiplexers
 
-## Piping und Output redirection
-
 Unter Linux hat jedes Programm 3 Streams, welche Daten/Informationen übertragen können:
 
 - `stdin`
@@ -21,9 +19,9 @@ Unter Linux hat jedes Programm 3 Streams, welche Daten/Informationen übertragen
 
 Diese Streams funktionieren normalerweise so:
 
-- STDIN (**0**): In der Konsole ist unsere Eingabe STDIN. Wir geben unseren Text in die STDIN unserer Shell ein, welche dann Programme ausführen kann, basierend auf unserem Input.
-- STDOUT (**1**): Standardmäßig unser Output im Terminal. Wenn ein Programm Text in die Konsole schreibt, dann landet dieser in der Regel als regulärer Output in der Konsole.
-- STDERR (**2**): Der Fehleroutput. Wird für Fehlermeldungen genutzt. Ist getrennt vom STDOUT, da man für Logging diese Fehler geg. in einer anderen Datei speichern möchte. Auch der Output dieses Streams landet standardmäßig in der Konsole.
+- `STDIN` (**0**): In der Konsole ist unsere Eingabe `STDIN`. Wir geben Text in unsere Konsole ein, welcher dann an die Shell weiter gegeben werden. Diese kann dann Programme ausführen kann, basierend auf unserem Input.
+- `STDOUT` (**1**): Standardmäßig unser Output im Terminal. Wenn ein Programm Text in die Shell schreibt, dann landet dieser in der Regel als regulärer Output in der Konsole.
+- `STDERR` (**2**): Wird für Fehlermeldungen genutzt. Ist getrennt vom `STDOUT`, da man für Logging-Zwecke diese Fehler geg. in eine Datei weiter leitet. Auch der Output dieses Streams landet standardmäßig in der Konsole.
 
 ### Piping `|`
 
@@ -36,8 +34,6 @@ prog1 | prog2 | prog3
 Mit diesem Syntax wird der *Output* von `prog1` in den *Input* von `prog2` geleitet, welches die Daten weiter verarbeitet und diese dann an `prog3` weiter gibt, und so weiter...
 
 Hier ein praktisches Beispiel:
-
-Nehmen wir an wir haben folgende Datei:
 
 **`groups.txt`**
 ```
@@ -64,7 +60,7 @@ echo "hello world"
 ```
 
 ```bash
-# Gibt Text in STDOUT und wird weiter geleitet in "test.txt"
+# STDOUT wird weiter geleitet in "test.txt"
 echo "hello world!" 1> test.txt
 cat test.txt # "hello world!"
 ```

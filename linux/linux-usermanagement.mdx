@@ -1,5 +1,5 @@
 ---
-title: Benutzer- und Gruppenverwaltung in Linux
+title: Benutzer- und Gruppenverwaltung
 description: Eine umfassende Anleitung zur Verwaltung von Benutzer- und Gruppenberechtigungen in Linux.
 sidebar:
   order: 5
@@ -67,14 +67,6 @@ sudo deluser username
 passwd
 ```
 
-### usermod
-
-`usermod` ermöglicht die Änderung von Benutzereigenschaften wie Benutzernamen, Gruppenzugehörigkeit, Passwortablaufdatum und mehr. In diesem Fall fügen wir den Benutzer `username` in die Gruppe `newgroup` hinzu.
-
-```shell
-sudo usermod -aG newgroup username
-```
-
 ## Gruppenverwaltung
 
 ### groupadd
@@ -99,4 +91,12 @@ sudo delgroup groupname
 
 ```shell
 groups username
+```
+
+## usermod
+
+`usermod` ermöglicht die Änderung von Benutzereigenschaften wie Benutzernamen, Gruppenzugehörigkeit, Passwortablaufdatum und mehr. In diesem Fall fügen wir den Benutzer `username` in die Gruppe `newgroup` hinzu.
+
+```shell
+sudo usermod -aG newgroup username
 ```

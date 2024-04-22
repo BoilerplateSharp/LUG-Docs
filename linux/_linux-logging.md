@@ -2,14 +2,22 @@
 title: Überwachung und Protokollierung in Linux
 description: Eine umfassende Übersicht über Überwachung und Protokollierung in Linux, einschließlich der Verwendung von syslog und auditd zur Überwachung von Systemereignissen und Sicherheitsvorfällen.
 sidebar:
-  order: 0
+  order: 12
 ---
 
 Überwachung und Protokollierung sind wesentliche Bestandteile der Sicherheitskonzepte in Linux-Betriebssystemen. Dazu gehören, unter anderem, die Verwendung von `syslog` und `auditd` zur Überwachung von Systemereignissen und Sicherheitsvorfällen erklärt.
 
 ## syslog
 
-`syslog` ist ein Systemprotokolldienst in Unix-ähnlichen Betriebssystemen, der zur Protokollierung von Systemereignissen und Nachrichten verwendet wird. Es bietet eine zentrale Plattform für das Logging von Informationen, Warnungen, Fehlern und anderen Ereignissen, die auf einem Linux-System auftreten.
+`syslog` ist ein Systemprotokolldienst in Unix-ähnlichen Betriebssystemen, der zur Protokollierung von Systemereignissen und Nachrichten verwendet wird. Es bietet eine Ort für das Logging von Informationen, Warnungen, Fehlern und anderen Ereignissen, die auf einem Linux-System auftreten.
+
+### Syslog lesen
+
+Lesen kann man das Syslog mit dem `journalctl` Tool:
+
+```shell
+journalctl
+```
 
 ### Konfiguration von syslog
 
@@ -27,7 +35,7 @@ Diese Nachricht wird dann entsprechend den Konfigurationen in der syslog-Konfigu
 
 ## auditd
 
-`auditd` ist ein Dienst für die Überwachung und Protokollierung von Sicherheitsereignissen auf einem Linux-System. Es ermöglicht die Aufzeichnung von Systemaufrufen, Dateizugriffen, Netzwerkaktivitäten und anderen sicherheitsrelevanten Ereignissen für die spätere Analyse und Auswertung.
+`auditd` ist ein Dienst für die Überwachung und Protokollierung von Sicherheitsereignissen auf einem Linux-System. Es ermöglicht die Aufzeichnung von Systemaufrufen, Dateizugriffen, Netzwerkaktivitäten und anderen sicherheitsrelevanten Ereignissen für die spätere Analyse und Auswertung. Unter Ubuntu ist auditd nicht vorinstalliert.
 
 ### Konfiguration von auditd
 
@@ -53,3 +61,6 @@ Die Verwendung von `syslog` und `auditd` ermöglicht es Administratoren, Sicherh
 
 :::
 
+## Logdateien
+
+todo
