@@ -145,11 +145,21 @@ sudo chmod 700 Datei1 # u=rwx,g-rwx,o-rwx
 
 ### Besitzer ändern
 
-todo
+Den Besitzer einer Datei änderst du mit dem `chown` Commmand.
+
+```bash
+sudo chown tobi ./Datei1
+sudo chown -R tobi ./Ordner
+```
 
 ### Gruppe ändern
 
-todo
+Ebenfalls lässt sich mit dem gleichen Command `chown` auch die Gruppe ändern.
+
+```bash
+sudo chown :ftp_user ./Datei1 # Ändert nur die Gruppe
+sudo chown tobi:ftp_user ./Ordner # Ändert Gruppe und Owner in einem Schritt
+```
 
 ## Links
 
@@ -229,10 +239,8 @@ Partitionen sind Unterteilungen einer physischen Festplatte, die es ermöglichen
 
 Es gibt verschiedene Arten von Partitionen, die unterschiedliche Zwecke erfüllen:
 
-- **Primäre Partitionen:** Dies sind eigenständige Partitionen, die direkt auf der Festplatte erstellt werden können. Ein MBR (Master Boot Record) unterstützt bis zu vier primäre Partitionen oder drei primäre Partitionen und eine erweiterte Partition.
-  
+- **Primäre Partitionen:** Dies sind eigenständige Partitionen, die direkt auf der Festplatte erstellt werden können. Ein MBR (Master Boot Record) unterstützt bis zu vier primäre Partitionen oder drei primäre Partitionen und eine erweiterte Partition. Bei GPT sind bis zu 128 Partitionen möglich.
 - **Erweiterte Partitionen:** Diese dienen als Container für logische Laufwerke. Mit einer erweiterten Partition können mehr als vier Partitionen auf einer Festplatte erstellt werden.
-
 - **Logische Laufwerke:** Diese werden innerhalb einer erweiterten Partition erstellt und verhalten sich wie eigenständige Partitionen.
 
 ### Partitionierungswerkzeuge
@@ -243,7 +251,21 @@ Linux bietet verschiedene Werkzeuge für die Partitionierung von Festplatten:
 - **parted:** Ein weiteres Befehlszeilenprogramm zur Partitionierung von Festplatten.
 - **gparted:** Eine grafische Benutzeroberfläche für parted, die eine benutzerfreundliche Möglichkeit zur Partitionierung von Festplatten bietet.
 
-### Mounten von Partitionen
+## Partitionen Erstellen
+
+Hier die Partitionierung einer 50GB Festplatte in `2x25GB` Partitionen mit `fdisk`. Die Festplatte in diesem Beispiel ist `/dev/sdb`.
+
+todo: video
+
+## Filesystem auf Partition schreiben
+
+Um ein Dateisystem auf eine Partition zu schreiben und diese damit nutzbar zu machen, nutzen wir `mkfs -t` mit dem jeweiligen Dateisystem, welches wir nutzen wollen.
+
+```bash
+sudo mkfs -t ext4 /dev/sdb1
+```
+
+## Mounten von Partitionen
 
 Nachdem eine Partition erstellt wurde, muss sie eingehängt (gemountet) werden, damit das Dateisystem darauf zugreifen kann. Dazu wird ein Einhängepunkt (Mount Point) im Linux-Dateisystem erstellt, üblicherweise unter `/mnt` oder `/media`.
 

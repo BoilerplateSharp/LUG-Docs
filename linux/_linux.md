@@ -35,11 +35,11 @@ Das folgende dient lediglich als Platzhalter für eine Themenübersicht, inklusi
     - [ ] Verbindung über `ssh` mit Remote
     - [ ] Digitale Schlüssel mit GnuPG
 - [ ] Shells
-    - [ ] Piping von Befehlen
+    - [x] Piping von Befehlen
     - [ ] Automatisierung und Bash-Scripting
-- [ ] Benutzerverwaltung
-- [ ] Prozessverwaltung
-  - [ ] `SystemD` und `CronD`
-- [ ] Systemüberwachung
+- [x] Benutzerverwaltung
+- [x] Prozessverwaltung
+  - [x] `SystemD` und `CronD`
+- [x] Systemüberwachung
 - [ ] Sicherheitskonzepte
 - [ ] Sad Servers

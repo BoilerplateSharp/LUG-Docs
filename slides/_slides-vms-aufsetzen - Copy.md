@@ -406,8 +406,8 @@ sudo nano /etc/apt/apt.conf.d/proxy.conf
 **`/etc/apt/apt.conf.d/proxy.conf`**
 ```conf
 Acquire {
-	HTTP::proxy "http://"<addresse>:<port>";
-	HTTPS::proxy "http://"<addresse>:<port>";
+	HTTP::proxy "http://<addresse>:<port>";
+	HTTPS::proxy "http://<addresse>:<port>";
 }
 ```
 

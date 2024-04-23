@@ -60,7 +60,3 @@ Dieser Befehl zeigt alle Logeinträge an, die sich auf Benutzeranmeldungen bezie
 Die Verwendung von `syslog` und `auditd` ermöglicht es Administratoren, Sicherheitsvorfälle zu erkennen, zu untersuchen und darauf zu reagieren, um die Integrität und Sicherheit eines Linux-Systems zu gewährleisten.
 
 :::
-
-## Logdateien
-
-todo
