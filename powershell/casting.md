@@ -1,6 +1,8 @@
 ---
 title: Umwandeln von Datentypen
 description: Wie man Datentypen in Powershell umwandelt.
+sidebar:
+  order: 5
 ---
 
 In PowerShell ist es oft notwendig, Datentypen zu konvertieren, um bestimmte Funktionen auszuführen oder Daten in einem anderen Format zu erhalten.

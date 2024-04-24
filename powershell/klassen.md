@@ -1,6 +1,8 @@
 ---
 title: Objekte und Klassen
 description: Wie man Funktionen und Variablen in eigenen Objekten und Klassen organisiert.
+sidebar:
+  order: 13
 ---
 
 Ein Objekt ist wie ein **Container** für mehrere andere Daten und Funktionen. Diese Informationen können zum Beispiel der Name einer Person, ihr Alter oder ihre Adresse sein. Objekte können in PowerShell auch Funktionen enthalten, die bestimmte Aktionen ausführen können. Zum Beispiel könnte ein Katzen-Objekt eine Funktion haben, um zu *miauen*. 

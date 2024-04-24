@@ -1,6 +1,8 @@
 ---
 title: Module
 description: Wie man Funktionen, Variablen und Klassen in Modulen organisiert.
+sidebar:
+  order: 14
 ---
 
 ## Module

@@ -1,6 +1,8 @@
 ---
 title: Arbeiten mit dem Dateisystem
 description: Wie man sich mit Powershell im Dateisystem zurechtfindet und wie man es manipuliert.
+sidebar:
+  order: 7
 ---
 
 Die Arbeit mit dem Dateisystem in PowerShell beginnt mit der Navigation durch die Ordnerstruktur. Die Cmdlets `Get-ChildItem` und `Set-Location` sind hierbei besonders nützlich.

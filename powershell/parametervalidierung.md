@@ -1,6 +1,8 @@
 ---
 title: Parametervalidierung
 description: Wie man Funktionen mit Parametervalidierung in Powershell erstellt.
+sidebar:
+  order: 17
 ---
 
 Advanced Functions sind eine Möglichkeit, Ihre PowerShell-Skripte zu strukturieren und Parameter effektiv zu nutzen. Eine einfache Advanced Function sieht beispielsweise so aus:

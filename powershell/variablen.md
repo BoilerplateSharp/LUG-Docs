@@ -1,6 +1,8 @@
 ---
 title: Variablen
 description: Wie man Variablen in Powershell verwendet.
+sidebar:
+  order: 3
 ---
 
 In PowerShell werden Variablen verwendet, um Daten zu speichern. Diese Daten haben immer einen **Datentyp (wie String, Integer, Datum, …)**. Weitere Informationen zu Datentypen findest du [hier](/powershell/datentypen).

@@ -1,6 +1,8 @@
 ---
 title: Funktionen in Powershell
 description: Wie man mit Powershell eigene Funktionen definiert und verwendet.
+sidebar:
+  order: 10
 ---
 
 Funktionen sind benutzerdefinierte Codeblöcke, die eine bestimmte Aufgabe ausführen. Sie bieten Wiederverwendbarkeit, bessere Strukturierung und einfachere Wartung des Codes. Hier ist ein Beispiel für eine einfache PowerShell-Funktion:

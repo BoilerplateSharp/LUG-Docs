@@ -1,6 +1,8 @@
 ---
 title: Get-Help
 description: Hilfe zur Selbsthilfe mit Get-Help.
+sidebar:
+  order: 4
 ---
 
 Eine der größten Herausforderungen für Benutzer, die neu in der PowerShell-Umgebung sind, ist es, den richtigen Befehl oder das richtige Skript für eine speziellen Anforderungen zu finden. Zum Glück bietet PowerShell ein integriertes Hilfe-System, welches Anleitungen, Beispiele und Syntaxinformationen für die verschiedenen Cmdlets und Skripte bereitstellt.

@@ -1,6 +1,8 @@
 ---
 title: Datentypen in Powershell
 description: Eine Übersicht über die wichtigsten Datentypen in Powershell.
+sidebar:
+  order: 19
 ---
 
 ## Eingebaute Daten Typen

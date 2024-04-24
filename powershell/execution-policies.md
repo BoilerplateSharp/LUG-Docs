@@ -1,6 +1,8 @@
 ---
 title: Execution-Policies in Powershell
 description: Wie man Scripte in Powershell ausführen, oder die Ausführung dieser beschränken kann.
+sidebar:
+  order: 16
 ---
 
 In Powershell gibt es sogenannte Execution-Policies, die das Ausführen von Skripten und Skriptblöcken regulieren. Diese Policies sind wichtig, um die Sicherheit des Systems zu gewährleisten.

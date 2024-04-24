@@ -1,6 +1,8 @@
 ---
 title: Pattern-Matching
 description: Wie man mit Pattern-Matching in Powershell arbeiten kann.
+sidebar:
+  order: 18
 ---
 
 Reguläre Ausdrücke sind spezielle Zeichenfolgen, die verwendet werden, um Muster in Texten zu definieren und zu suchen. Reguläre Ausdrücke werden in vielen Programmiersprachen und Texteditorn verwendet. Sie sind besonders nützlich, wenn man nach bestimmten Mustern in großen Texten suchen oder Texte automatisch bearbeiten möchte.

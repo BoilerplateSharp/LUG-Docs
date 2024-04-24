@@ -1,6 +1,8 @@
 ---
 title: Erstellen von Powershell-Scripts
 description: Erstellen von Powershell-Scripts
+sidebar:
+  order: 15
 ---
 
 PowerShell-Scripts sind nützlich, um komplexe Aufgaben und Automatisierung in einer Windows-Umgebung durchzuführen.

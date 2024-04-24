@@ -1,6 +1,8 @@
 ---
 title: Daten Typisiert verarbeiten
 description: Wie man strukturierte und unstrukturierte Daten mit Powershell auslesen, filtern und sortieren kann.
+sidebar:
+  order: 9
 ---
 
 Erstelle die folgenden Dateien auf deinem Dateisystem, um die Übungen unten nachzustellen

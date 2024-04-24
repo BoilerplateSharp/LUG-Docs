@@ -1,6 +1,8 @@
 ---
 title: Kontrollstrukturen
 description: Kontrollstrukturen in Powershell.
+sidebar:
+  order: 11
 ---
 
 ## Bedingte Anweisungen

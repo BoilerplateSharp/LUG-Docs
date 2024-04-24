@@ -1,6 +1,8 @@
 ---
 title: Variablen und Datentypen
 description: Powershell als Programmiersprache - Variablen und Datentypen
+sidebar:
+  order: 2
 ---
 
 Variablen und Datentypen gibt es nicht nur in PowerShell, sondern in allen Programmier- und Scriptsprachen. Man kann sich Variablen als “Container” für Werte vorstellen. Datentypen geben an, welche Werte zulässig sind, und welche nicht.

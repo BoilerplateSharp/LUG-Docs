@@ -1,6 +1,8 @@
 ---
 title: Arbeiten mit JSON- oder CSV-Dateien
 description: Wie man mit Powershell JSON- oder CSV-Dateien strukturiert ausliest.
+sidebar:
+  order: 6
 ---
 
 ## JSON-Dateien

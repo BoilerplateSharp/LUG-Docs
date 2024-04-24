@@ -1,6 +1,8 @@
 ---
 title: Task-Scheduling mit Powershell
 description: Task-Scheduling mit Powershell
+sidebar:
+  order: 20
 ---
 
 Zunächst sollten sollte erwähnt werden, dass man es für den Task-Scheduler auch eine Grafische Benutzeroberfläche gibt. Wir wollen uns jedoch anschauen, wie wir das Automatisieren von Tasks mit PowerShell automatisieren können.

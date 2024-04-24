@@ -1,6 +1,8 @@
 ---
 title: Iterationen und Schleifen
 description: Wie man Schleifen und Iteration durch Sammlungen in Powershell nutzt.
+sidebar:
+  order: 12
 ---
 
 ## Iteration

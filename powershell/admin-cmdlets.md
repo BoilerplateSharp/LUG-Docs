@@ -1,6 +1,8 @@
 ---
 title: Nützliche CMDlets
 description: Eine tabellarische Übersicht über die wichtigsten Powershell-Cmdlets, die man als Administrator kennen sollte.
+sidebar:
+  order: 8
 ---
 
 :::tip
