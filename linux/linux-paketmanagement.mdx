@@ -38,6 +38,41 @@ sudo apt upgrade
 # sudo apt upgrade -y
 ```
 
+---new
+
+### Mirror-Verwaltung
+
+Ein Mirror ist ein Server, der eine Kopie der Softwarepakete und Updates für ein Linux-Betriebssystem hostet, quasi ein alternativer Download-Server für Paketaktualisierungen. Die Nutzung eines geografisch näheren Mirrors kann die Downloadzeiten verbessern und die Zuverlässigkeit der Updates erhöhen.
+
+#### Hinzufügen eines Mirror
+
+Um einen neuen Mirror zu deinem System hinzuzufügen, bearbeitest du die Datei `/etc/apt/sources.list` und fügst die URL des gewünschten Mirrors hinzu. Mirrors, welche vorher in der Datei auftauchen, haben eine höhere Priorität.
+
+### Verwaltung von PPA-Repositories
+
+Ein Personal Package Archive (PPA) ist ein Repository, das von Entwicklern genutzt wird, um neuere oder speziell angepasste Versionen ihrer Software anzubieten, die noch nicht in den offiziellen Repositories verfügbar sind. Das Hinzufügen eines PPA ermöglicht es dir, Updates und Pakete direkt vom Entwickler zu beziehen.
+
+Ein Beispiel dafür ist z.B. Python. Bei Python werden jediglich die Patch-Versionen geupdated, nicht aber Major- und Minor-Versions. Da jedes neue Version ein neues Packet (z.B. `python3.10`, `python3.11`,...) darstellt, dauert es eine Weile, bis neue Versionen auf den offiziellen Repositories zum Download verfügbar sind. Um die neusten Versionen von Python zu bekommen, können wir das `deadsnakes/ppa` hinzufügen.
+
+#### Hinzufügen eines PPA
+
+Um ein PPA zu deinem System hinzuzufügen, verwendest du folgenden Befehl:
+
+```shell title="PPA hinzufügen"
+sudo add-apt-repository ppa:user/ppa-name
+# sudo add-apt-repository ppa:deadsnakes/ppa
+```
+
+:::caution[Vorsicht!]
+Wenn du dich über einen Proxy mit dem Internet verbindest, musst du für den vorherigen Befehl die `-E` Option an `sudo` übergeben. Ohne `-E` ignoriert `sudo` Umgebungsvariablen wie `http_proxy`.
+```bash
+sudo -E add-apt-repository ppa:user/ppa-name
+```
+:::
+
+Diese Anpassung sollte helfen, die beiden Konzepte klar zu trennen und den Lesern deiner Dokumentation zu ermöglichen, genau zu verstehen, wie und wann man Mirrors und PPAs verwendet.
+---old
+
 ### Mirror-Verwaltung
 
 Ein Mirror ist ein Server, der eine Kopie der Softwarepakete und Updates für ein Linux-Betriebssystem hostet. In einfach: **Ein Download-Server für Updates**
@@ -46,11 +81,21 @@ Die Verwendung eines Mirrors, welcher näher am eigenen Standort ist, kann die D
 
 ### Hinzufügen eines Mirror
 
-Um einen Mirror zu deinem System hinzuzufügen, bearbeite die Datei `/etc/apt/sources.list` und füge die URL des Mirrors hinzu. Alternativ, kannst du folgenden Befehl nutzen:
+Um einen Mirror zu deinem System hinzuzufügen, kannst du die Datei `/etc/apt/sources.list` bearbeiten und die URL des Mirrors hinzufügen. Besser ist es allerdings, den folgenden Command zu nutzen:
 
 ```shell title="adding repository..."
 sudo add-apt-repository <repository-url>
 ```
+
+:::caution[Vorsicht!]
+
+Falls du dich über einen Proxy mit dem Internet verbindest, musst du für den vorherigen Befehl die `-E` an `sudo` übergeben. Ansonsten ignoriert `sudo` unsere Umgebungsvariablen, wie z.B. `http_proxy`.
+
+```bash
+sudo -E add-apt-repository <repository-url>
+```
+
+:::
 
 ## Git Konfiguration
 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "powershell/task-scheduling.md",
+                "file": "linux/linux-paketmanagement.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c159df05ce9a3e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "start/style-guide.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "powershell/task-scheduling.md",
+                "file": "linux/linux-paketmanagement.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "powershell/task-scheduling.md",
+                "file": "linux/linux-paketmanagement.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "powershell/task-scheduling.md"
+                "file": "linux/linux-paketmanagement.mdx"
               }
             }
           }
@@ -153,6 +165,9 @@
   },
   "active": "ef7cfdc25497ff5d",
   "lastOpenFiles": [
+    "start/style-guide.mdx",
+    "linux/linux-paketmanagement.mdx",
+    "powershell/task-scheduling.md",
     "powershell/types.md",
     "powershell/pattern-matching.md",
     "powershell/parametervalidierung.md",
@@ -173,17 +188,14 @@
     "powershell/datentypen.md",
     "powershell/introduction.mdx",
     "powershell/todo.md",
-    "powershell/task-scheduling.md",
     "powershell/_sie-pipelines.md",
     "powershell/powershell-gallery.md",
     "powershell/_arrays.md",
     "linux/linux-cryptography.mdx",
     "linux/linux-logging.md",
     "linux/_linux.md",
-    "linux/linux-paketmanagement.mdx",
     "linux/linux-fs.mdx",
     "linux/_linux-sadservers.mdx",
-    "slides/_slides-vms-aufsetzen.md",
     "linux/linux-die-erste-stunde.mdx",
     "linux/linux-processes.mdx",
     "linux/linux-networking.mdx",
