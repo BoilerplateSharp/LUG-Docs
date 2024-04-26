@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "79112566595c60e1",
+        "id": "91f94853bc4c958c",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7cfdc25497ff5d",
+            "id": "95ddfe9aec58b4dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux-paketmanagement.mdx",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c159df05ce9a3e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "start/style-guide.mdx",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/linux-paketmanagement.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/linux-paketmanagement.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/linux-paketmanagement.mdx"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,7 +142,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ef7cfdc25497ff5d",
+  "active": "95ddfe9aec58b4dc",
   "lastOpenFiles": [
     "start/style-guide.mdx",
     "linux/linux-paketmanagement.mdx",
