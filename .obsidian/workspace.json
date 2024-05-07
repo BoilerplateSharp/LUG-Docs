@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "217780578fe1f9d1",
+        "id": "3629e67ba48fe635",
         "type": "tabs",
         "children": [
           {
-            "id": "d09c1c9bc53d87cf",
+            "id": "23e0045592ef53b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webentwicklung/flexbox.md",
+                "file": "drafts/modernes-unterrichten.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 272.5026054382324
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webentwicklung/flexbox.md",
+                "file": "drafts/modernes-unterrichten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webentwicklung/flexbox.md",
+                "file": "drafts/modernes-unterrichten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webentwicklung/flexbox.md"
+                "file": "drafts/modernes-unterrichten.md"
               }
             }
           }
@@ -150,43 +150,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d09c1c9bc53d87cf",
+  "active": "23e0045592ef53b2",
   "lastOpenFiles": [
+    "astro/Projektinitialisierung.md",
+    "drafts/modernes-unterrichten.md",
+    "astro/interaktive-inseln.md",
+    "astro/Einleitung.md",
+    "astro/Komponenten.md",
+    "astro/Projektstruktur.md",
+    "local/html,css,js - noobtopro/html/_1 5 flex und grid.md",
+    "local/html,css,js - noobtopro/html/_1.4-semantische-bloecke.md",
+    "local/html,css,js - noobtopro/html/_1.3-html-elemente.md",
+    "local/html,css,js - noobtopro/html/_1.2block-inline.md",
+    "local/html,css,js - noobtopro/html/_1.1-html-grundlagen.md",
+    "local/html,css,js - noobtopro/html/_1-html-geschichte.md",
+    "HTML d4b2e25c898f4e1f8a736b8950544ca5/1 Entstehung HTML ab5a49e5d34d43af9f5898f5d2b974ed.md",
+    "local/html,css,js - noobtopro/_html.md",
+    "HTML d4b2e25c898f4e1f8a736b8950544ca5",
+    "local/_hands-on arbeiten mit git.md",
+    "local/_html,css,js - noobtopro.md",
+    "local/_Rx for Dotnet.md",
+    "local/_lernressourcen.md",
+    "linux/linux-installation.mdx",
+    "linux/linux-install-hyperv.md",
+    "linux/linux-install-wsl.md",
+    "local/_URLs and URIs in Webdevelopment.md",
     "webentwicklung/fonts.mdx",
     "webentwicklung/flexbox.md",
     "webentwicklung/Untitled.md",
     "webentwicklung/forms.md",
     "powershell/_sie-pipelines.md",
     "powershell/admin-cmdlets.md",
-    "powershell/_arrays.md",
     "index.mdx",
     "start/style-guide.mdx",
     "linux/linux-paketmanagement.mdx",
-    "powershell/task-scheduling.md",
-    "powershell/types.md",
-    "powershell/pattern-matching.md",
-    "powershell/parametervalidierung.md",
-    "powershell/execution-policies.md",
-    "powershell/scripts.md",
-    "powershell/module.md",
-    "powershell/klassen.md",
-    "powershell/iteration.md",
-    "powershell/kontrollstrukturen.md",
-    "powershell/funktionen.md",
-    "powershell/daten-verarbeiten.md",
-    "powershell/dateisystem.md",
-    "powershell/parsing.md",
-    "powershell/casting.md",
-    "powershell/get-help.md",
-    "powershell/variablen.md",
-    "powershell/datentypen.md",
     "powershell/introduction.mdx",
-    "powershell/todo.md",
     "linux/linux-cryptography.mdx",
     "linux/linux-fs.mdx",
     "linux/_linux-sadservers.mdx",
-    "linux/linux-die-erste-stunde.mdx",
-    "linux/linux-processes.mdx",
     "local/html,css,js - noobtopro/html/1 2 html block- & inline-elemente/untitled 1.png",
     "local/html,css,js - noobtopro/html/1 2 html block- & inline-elemente/untitled.png",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-9.png",

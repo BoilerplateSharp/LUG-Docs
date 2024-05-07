@@ -19,12 +19,11 @@ Allerdings sprechen einige Punkte für Astro, im speziellen:
 Das alleine sind schon gute Argumente, aber hier einige Features, welche richtig `nice` sind:
 
 - Fokus auf Content - Inhalte können in den verschiedensten Formaten ganz einfach hinzugefügt werden. Am einfachsten mit `Markdown` oder `MDX`.
-- Inseln/Islands - So werden in Astro interaktive Komponenten genannt (eg. CSR). Mehr zu Komponenten, später.
-- Speed als Default - Astro-Pages sind erstmal Static-HTML, was die Seite besonderst schnell laden lässt.
+- Inseln/Islands - So werden in Astro interaktive Komponenten genannt (Client-Sided-Rendering). Mehr zu Komponenten, später.
+- Schnell als Standard - Astro-Seiten sind erstmal Static-HTML, was die Seite besonderst schnell laden lässt.
 - Easy - Astro ist besonderst Einsteigerfreundlich
 - Flexibel - Es gibt für die meisten Use-Cases passende Integrationen, die einem die Arbeit vereinfachen.
 - Unterstützt verschiedene UI-Frameworks wie `React`, `Svelte`, `Solid`, `Lit` und mehr.
-
 
 ## Komponenten
 
@@ -40,4 +39,10 @@ Um eine Seite mit solchen Komponenten zu bauen, brauchen wir ein UI-Framework wi
 
 `HTML`, `CSS` und `Javascript` in einer Datei, für eine wiederverwendbare Komponente vereinen, und diese dann auf mehreren Seiten oder sogar in anderen Projekten wiederverwenden.
 
+## Static Site Generation
 
+Astro ist ein SSG-Framework. Das heißt, dass zu dem Zeitpunkt, wo wir die Website bauen (`npm run build`), die fertige HTML-Dateien erzeugt werden. Wir haben keine hier keinen Server-Code der ausgeführt wird. Top-Level Code, welchen wir in einer `.astro` Datei schreiben, wird zur build-Time ausgeführt.
+
+Mittlerweile lässt sich Server-Code über die Konfiguration hinzufügen, entweder so dass jede Seite Serverseitig gerendert wird, oder so dass man pro Seite entscheiden muss.
+
+Statische HTML-Seiten, mit wenig, oder sogar ohne JavaScript, sind besonderst schnell und fühlen sich "flüssig" an.
