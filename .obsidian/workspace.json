@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/modernes-unterrichten.md",
+                "file": "linux/_linux-install-hyperv.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5026054382324
+    "width": 322.5026054382324
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/modernes-unterrichten.md",
+                "file": "linux/_linux-install-hyperv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/modernes-unterrichten.md",
+                "file": "linux/_linux-install-hyperv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/modernes-unterrichten.md"
+                "file": "linux/_linux-install-hyperv.md"
               }
             }
           }
@@ -150,10 +150,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "23e0045592ef53b2",
+  "active": "95302232c3a31d29",
   "lastOpenFiles": [
-    "astro/Projektinitialisierung.md",
+    "zertifikate/ms900-anmeldung.mdx",
+    "zertifikate",
+    "index.mdx",
+    "linux/linux-geschichte.md",
+    "drafts/ms900-anmeldung.md",
+    "assets/moonlanderFixed.jpg",
+    "linux/linux-die-erste-stunde.mdx",
+    "linux/linux-paketmanagement.mdx",
+    "webentwicklung/fonts.mdx",
+    "webentwicklung/flexbox.mdx",
+    "linux/linux-fs.mdx",
+    "drafts/_Git installieren.md",
     "drafts/modernes-unterrichten.md",
+    "astro/Projektinitialisierung.md",
     "astro/interaktive-inseln.md",
     "astro/Einleitung.md",
     "astro/Komponenten.md",
@@ -172,22 +184,11 @@
     "local/_Rx for Dotnet.md",
     "local/_lernressourcen.md",
     "linux/linux-installation.mdx",
-    "linux/linux-install-hyperv.md",
-    "linux/linux-install-wsl.md",
+    "linux/_linux-install-hyperv.md",
+    "linux/_linux-install-wsl.md",
     "local/_URLs and URIs in Webdevelopment.md",
-    "webentwicklung/fonts.mdx",
     "webentwicklung/flexbox.md",
-    "webentwicklung/Untitled.md",
-    "webentwicklung/forms.md",
-    "powershell/_sie-pipelines.md",
-    "powershell/admin-cmdlets.md",
-    "index.mdx",
     "start/style-guide.mdx",
-    "linux/linux-paketmanagement.mdx",
-    "powershell/introduction.mdx",
-    "linux/linux-cryptography.mdx",
-    "linux/linux-fs.mdx",
-    "linux/_linux-sadservers.mdx",
     "local/html,css,js - noobtopro/html/1 2 html block- & inline-elemente/untitled 1.png",
     "local/html,css,js - noobtopro/html/1 2 html block- & inline-elemente/untitled.png",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-9.png",
@@ -196,7 +197,6 @@
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-6.png",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-5.png",
     "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-4.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-30.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-3.png"
+    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-30.png"
   ]
 }
