@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d781edf5fcc99ca",
+        "id": "c6296c07a569904d",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b5aeba936b5ab0",
+            "id": "bb8d94ede7380e74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux-install-hyperv.mdx",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/linux-install-hyperv.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/linux-install-hyperv.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/linux-install-hyperv.mdx"
+              }
             }
           }
         ],
@@ -142,9 +150,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e0b5aeba936b5ab0",
+  "active": "bb8d94ede7380e74",
   "lastOpenFiles": [
     "linux/linux-install-wsl.mdx",
+    "linux/linux-install-hyperv.md",
+    "linux/linux-install-hyperv.mdx",
+    "drafts/hyper4.md",
+    "assets/linux-hyperv/hyperv-12.png",
+    "assets/linux-hyperv/hyperv-11.png",
+    "assets/linux-hyperv/hyperv-10.png",
+    "assets/linux-hyperv/hyperv-9.png",
+    "assets/linux-hyperv/hyperv-8.png",
+    "assets/linux-hyperv/hyperv-7.png",
+    "assets/linux-hyperv/hyperv-6.png",
+    "assets/linux-hyperv/hyperv-5.png",
+    "assets/linux-hyperv/hyperv-4.png",
+    "assets/linux-hyperv/hyperv-3.png",
     "linux/linux-installation.mdx",
     "index.mdx",
     "linux/linux-install-wsl.md",
@@ -152,19 +173,15 @@
     "linux/linux-paketmanagement.mdx",
     "linux/linux-geschichte.md",
     "linux/linux-fs.mdx",
-    "assets/wsl-install-login.png",
     "local/_Python-Grundlagen.md",
     "local/_Rustlings.md",
     "local/_Rx for Dotnet.md",
     "local/_The Shapes of Stories.md",
     "devsetup/_windows-developers.mdx",
     "drafts/_modernes-unterrichten.md",
-    "linux/_linux-install-hyperv.md",
     "zertifikate/ms900-anmeldung.mdx",
     "zertifikate",
     "drafts/ms900-anmeldung.md",
-    "assets/moonlanderFixed.jpg",
-    "linux/linux-die-erste-stunde.mdx",
     "drafts/_Git installieren.md",
     "astro/Projektinitialisierung.md",
     "astro/interaktive-inseln.md",
@@ -179,15 +196,6 @@
     "local/html,css,js - noobtopro/html/_1-html-geschichte.md",
     "HTML d4b2e25c898f4e1f8a736b8950544ca5/1 Entstehung HTML ab5a49e5d34d43af9f5898f5d2b974ed.md",
     "local/html,css,js - noobtopro/_html.md",
-    "local/_hands-on arbeiten mit git.md",
-    "local/_html,css,js - noobtopro.md",
-    "local/html,css,js - noobtopro/html/1 2 html block- & inline-elemente/untitled 1.png",
-    "local/html,css,js - noobtopro/html/1 2 html block- & inline-elemente/untitled.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-9.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-8.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-7.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-6.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-5.png",
-    "_slide-exports/_slides-vms-aufsetzen - Copy/assets/scvmm/create-scvmm-4.png"
+    "local/_hands-on arbeiten mit git.md"
   ]
 }
