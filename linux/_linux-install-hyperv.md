@@ -6,11 +6,11 @@ description: Wie man mithilfe von HyperV eine Linux-VM erstellt.
 
 ## Einleitung
 
-Um auf dem eigenen Windows PC ein Linux Betriebssystem zu installieren gibt es mehrere Möglichkeiten. In diesem Artikel wird der Weg über Microsoft HyperV erläutert. Die beste Methode jedoch, zumindest für die meisten Anwendungsfälle, ist die Installation über WSL. Mehr dazu hier: [Installation von Linux über WSL](_linux-install-wsl.md)
+Um auf dem eigenen Windows PC ein Linux Betriebssystem zu installieren gibt es mehrere Möglichkeiten. In diesem Artikel wird der Weg über Microsoft HyperV erläutert. Die beste Methode jedoch, zumindest für die meisten Anwendungsfälle, ist die Installation über WSL. Mehr dazu hier: [Installation von Linux über WSL](linux-install-wsl.md)
 
 ## Hinweis für Firmenlaptops
 
-Die Installation mit HyperV setzt, im übrigen [wie die mit WSL](_linux-install-wsl.md), voraus, dass man Adminberechtigungen auf dem Computer benötigt. Diese werden lediglich für die Einrichtung des Systems benötigt und sollte beim Einsatz von Firmenlaptops/-Computern mit dem zuständigen Administrator abgesprochen werden.
+Die Installation mit HyperV setzt, im übrigen [wie die mit WSL](linux-install-wsl.md), voraus, dass man Adminberechtigungen auf dem Computer benötigt. Diese werden lediglich für die Einrichtung des Systems benötigt und sollte beim Einsatz von Firmenlaptops/-Computern mit dem zuständigen Administrator abgesprochen werden.
 
 ## Installation
 
