@@ -11,10 +11,3 @@ winget install --id Git.Git -e --source winget
 ```
 
 ![](../assets/git-download.png)
-
-
-
-
-
-
-

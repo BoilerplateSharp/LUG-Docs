@@ -13,6 +13,13 @@
   "showLineNumber": true,
   "tabSize": 2,
   "useTab": false,
-  "vimMode": false,
-  "showInlineTitle": true
+  "vimMode": true,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
