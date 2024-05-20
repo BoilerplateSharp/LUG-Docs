@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/_meeting-14-5-24.md",
+                "file": "astro/interaktive-inseln.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5026054382324
+    "width": 295.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/_meeting-14-5-24.md",
+                "file": "astro/interaktive-inseln.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/_meeting-14-5-24.md",
+                "file": "astro/interaktive-inseln.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/_meeting-14-5-24.md"
+                "file": "astro/interaktive-inseln.mdx"
               }
             }
           }
@@ -152,15 +153,42 @@
   },
   "active": "92069bd0013b48f9",
   "lastOpenFiles": [
-    "assets/Pasted image 20240515131849.png",
+    "astro/komponenten.mdx",
+    "templates/_tpl-image-btm-text.md",
+    "templates/_slide-template.md",
+    "templates/_sl-file-tree.md",
+    "templates/_sl-tabs.md",
+    "templates/_sl-icon.md",
+    "templates/_sl-steps.md",
+    "templates/_sl-link-card.md",
+    "templates/_sl-card.md",
+    "templates/_simple-template.md",
+    "templates/_big-template.md",
+    "templates",
+    "_templates/_tpl-image-btm-text.md",
+    "_templates/_sl-tabs.md",
+    "_templates/_sl-steps.md",
+    "_templates/_sl-link-card.md",
+    "_templates/_slide-template.md",
+    "_templates/_sl-icon.md",
+    "_templates/_sl-file-tree.md",
+    "_templates/_sl-card.md",
+    "_templates/_simple-template.md",
+    "_templates/_big-template.md",
+    "_templates/__tpl-image-btm-text.md",
+    "astro/projektstruktur.mdx",
+    "_templates/sl-file-tree.md",
+    "astro/Projektstruktur.md",
+    "astro/projektinitialisierung.mdx",
+    "astro/interaktive-inseln.mdx",
+    "astro/einleitung.mdx",
+    "astro/Projektinitialisierung.mdx",
+    "astro/interaktive-inseln.md",
+    "_templates/sl-tabs.md",
+    "linux/linux-paketmanagement.mdx",
     "devsetup/_windows-developers.mdx",
-    "drafts/_Git installieren.md",
-    "drafts/_grid.md",
-    "drafts/_meeting-14-5-24.md",
-    "linux/linux-install-hyperv.mdx",
-    "linux/linux-install-wsl.mdx",
-    "linux/linux-install-hyperv.md",
-    "drafts/hyper4.md",
+    "webentwicklung/fonts.mdx",
+    "assets/Pasted image 20240515131849.png",
     "assets/linux-hyperv/hyperv-12.png",
     "assets/linux-hyperv/hyperv-11.png",
     "assets/linux-hyperv/hyperv-10.png",
@@ -169,34 +197,6 @@
     "assets/linux-hyperv/hyperv-7.png",
     "assets/linux-hyperv/hyperv-6.png",
     "assets/linux-hyperv/hyperv-5.png",
-    "assets/linux-hyperv/hyperv-4.png",
-    "assets/linux-hyperv/hyperv-3.png",
-    "linux/linux-installation.mdx",
-    "index.mdx",
-    "linux/linux-install-wsl.md",
-    "linux/linux-networking.mdx",
-    "linux/linux-paketmanagement.mdx",
-    "linux/linux-geschichte.md",
-    "linux/linux-fs.mdx",
-    "local/_Python-Grundlagen.md",
-    "local/_Rustlings.md",
-    "local/_Rx for Dotnet.md",
-    "local/_The Shapes of Stories.md",
-    "drafts/_modernes-unterrichten.md",
-    "zertifikate/ms900-anmeldung.mdx",
-    "zertifikate",
-    "drafts/ms900-anmeldung.md",
-    "astro/Projektinitialisierung.md",
-    "astro/interaktive-inseln.md",
-    "astro/Einleitung.md",
-    "astro/Komponenten.md",
-    "astro/Projektstruktur.md",
-    "local/html,css,js - noobtopro/html/_1 5 flex und grid.md",
-    "local/html,css,js - noobtopro/html/_1.4-semantische-bloecke.md",
-    "local/html,css,js - noobtopro/html/_1.3-html-elemente.md",
-    "local/html,css,js - noobtopro/html/_1.2block-inline.md",
-    "local/html,css,js - noobtopro/html/_1.1-html-grundlagen.md",
-    "local/html,css,js - noobtopro/html/_1-html-geschichte.md",
-    "HTML d4b2e25c898f4e1f8a736b8950544ca5/1 Entstehung HTML ab5a49e5d34d43af9f5898f5d2b974ed.md"
+    "assets/linux-hyperv/hyperv-4.png"
   ]
 }
