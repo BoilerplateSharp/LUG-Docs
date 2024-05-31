@@ -3,6 +3,8 @@ title: Windows für Developer
 description: Wie man sein Windows 11 ideal für die Entwicklung von Desktop- und Web-Apps einrichtet.
 ---
 
+Das folgende stellt eine Kurzanleitung dar zum einrichten einer Windows-Developer Maschine dar. Diese Anleitung ist nicht vollständig und wird über die Zeit geupdated.
+
 - [ ] Windows DevHome
 - [ ] Windows Terminal
 - [ ] Powershell Core
@@ -15,6 +17,12 @@ description: Wie man sein Windows 11 ideal für die Entwicklung von Desktop- und
 - [ ] GPG4Win
 - [ ] Browsers (Chrome Dev, Firefox Dev)
 - [ ] Dotnet CLI Verweis
+- [ ] WSL
+
+## Windows DevHome
+
+
+
 
 ## Windows Terminal
 
@@ -27,7 +35,11 @@ Windows Terminal ist eine moderne Alternative zum `conhost.exe` (Console-Host), 
 - Hardware-Acceleration aka. Rendergeschwindigkeit
 - Shortcuts für Conviniece, z.B. `strg+L` als Alias für den `clear` Command
 
+:::tip
+
 Am einfachsten lässt sich das Windows Terminal über den Microsoft Store installieren.
+
+:::
 
 ## Powershell Core
 
@@ -35,11 +47,11 @@ In allen modernen Versionen von Microsoft Windows (seit ca. 2014) wird neben der
 
 Seit ca. Windows 10 gibt es allerdings eine neue Version von Powershell, namens `Powershell Core`. Das `Core` im Namen Signalisiert, dass diese neue Powershell Version in Dotnet Core implementiert ist, und daher Cross-Platform ist. Das heißt man kann Powershell Core auch unter Linux nutzen.
 
+:::tip
+
 `Powershell Core` lässt sich ebenfalls über den Microsoft Store nachinstallieren.
 
-### OhMyPosh
-
-todo
+:::
 
 ## Git und Github
 
@@ -53,42 +65,7 @@ installation git (options/fotostrecke vm)
 github account
 hinweis codespaces
 
-### Gitconfig
-
-### SSH und Git
-
-Die einfachste Art und Weise mit `Remote-Repositories` (wie Github) zu interagieren ist über *HTTPS*. Jedoch ist die einfachste Art meistens nicht die Beste...
-
-Wenn wir über HTTPS mit dem Remote interagieren, müssen wir uns natürlich irgendwie Authentifizieren. Irgendwie muss der Server, also Github in unserem Beispiel, ja wissen, ob ich Berechtigt bin Änderungen zu tätigen. HTTPS ist verschlüsselt, wir können allerdings noch einen Schritt weiter gehen und die Kommunikation mit dem Server über SSH laufen lassen.
-
-SSH steht für das **Secure-Shell** Protokoll. Was eine Shell ist, wissen wir bereits. Zur Erinnerung: Eine Shell ist ein **Read-Evaluate-Print-Loop**, oder **REPL**, mit dem wir mit dem Betriebssystem interagieren können.
-
-Secure in dem Kontext bedeutet, dass die Verbindung über Public-Key-Exchange abgesichert wird.
-
-todo: Public-Key-Exchange docs
-
-:::tip
-
-Im folgenden erstellen wir gemeinsam ein neues Schlüsselpaar für unseren Github Account, um über SSH zu kommunizieren. Falls du mit dem Gedanken spielst mehrere Accounts zu nutzen: Vermeide es lieber erstmal, wenn möglich.
-
-Es gehört einiges an zusätzlicher Konfiguration dazu, um mehrere Schlüsselpaare zu verwalten. In Kombination mit anderen Devtools, wie WSL, sorgt das für einige Probleme. Alle Lösbar, aber lästig... Du wurdest gewarnt :)
-
-:::
-
-import { Steps } from "@components/Steps"
-
-<Steps>
-
-1. Generiere ein neues Schlüsselpaar für deinen Git-Account mit `ssh-keygen`
-   ```bash
-   ssh-keygen
-   ```
-2. Lade deinen Schlüssel auf Github hoch. todo
-   
-
-</Steps>
-
-### Signieren von Versionen
+### Git Author
 
 Eine neue Version in Git wird als Commit bezeichnet. Ein Commit enthält alle notwendigen Informationen, welche Git benötigt, um die Version im nachhinein wiederherzustellen, wenn wir einen Fehler gemacht haben.
 
@@ -110,3 +87,55 @@ Mit deinem Github Account erhälst du zusätzlich eine "NoReply"-Email Addresse 
 
 :::
 
+### SSH und Git
+
+Die einfachste Art und Weise mit `Remote-Repositories` (wie Github) zu interagieren ist über *HTTPS*. Jedoch ist die einfachste Art meistens nicht die Beste...
+
+Wenn wir über HTTPS mit dem Remote interagieren, müssen wir uns natürlich irgendwie Authentifizieren. Irgendwie muss der Server, also Github in unserem Beispiel, ja wissen, ob ich Berechtigt bin Änderungen zu tätigen. HTTPS ist verschlüsselt, wir können allerdings noch einen Schritt weiter gehen und die Kommunikation mit dem Server über SSH laufen lassen.
+
+SSH steht für das **Secure-Shell** Protokoll. Was eine Shell ist, wissen wir bereits. Zur Erinnerung: Eine Shell ist ein **Read-Evaluate-Print-Loop**, oder **REPL**, mit dem wir mit dem Betriebssystem interagieren können.
+
+Secure in dem Kontext bedeutet, dass die Verbindung über Public-Key-Exchange abgesichert wird.
+
+todo: Public-Key-Exchange docs
+
+:::tip
+
+Im folgenden erstellen wir gemeinsam ein neues Schlüsselpaar für unseren Github Account, um über SSH zu kommunizieren. Falls du mit dem Gedanken spielst mehrere Accounts zu nutzen: Vermeide es lieber erstmal, wenn möglich.
+
+Es gehört einiges an zusätzlicher Konfiguration dazu, um mehrere Schlüsselpaare zu verwalten. In Kombination mit anderen Devtools, wie WSL, sorgt das für einige Probleme. Alle Lösbar, aber lästig... Du wurdest gewarnt :)
+
+:::
+
+import { Steps } from '@astrojs/starlight/components';
+
+<Steps>
+
+1. Generiere ein neues Schlüsselpaar für deinen Git-Account mit `ssh-keygen`
+   ```bash
+   ssh-keygen
+   ```
+2. Lade deinen Schlüssel auf Github hoch. todo
+   
+
+</Steps>
+
+### GPG Signaturen
+
+todo: gpg4win/gpg-cli
+
+## OhMyPosh
+
+todo
+
+## VSCode / Visual Studio
+
+## Browsers
+
+### Chrome DEV
+
+### Arc
+
+## Dotnet-CLI
+
+## WSL

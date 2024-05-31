@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webentwicklung/websites-for-webdevs.mdx",
+                "file": "devsetup/windows-developers.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324
+    "width": 407.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "3864b23b98b85ca6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webentwicklung/websites-for-webdevs.mdx",
+                "file": "devsetup/windows-developers.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webentwicklung/websites-for-webdevs.mdx",
+                "file": "devsetup/windows-developers.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webentwicklung/websites-for-webdevs.mdx"
+                "file": "devsetup/windows-developers.mdx"
               }
             }
           }
@@ -150,12 +151,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "95302232c3a31d29",
+  "active": "4995034a1f41551c",
   "lastOpenFiles": [
-    "devsetup/_windows-developers.mdx",
-    "devsetup/vscode-sqltools.md",
-    "webentwicklung/websites-for-webdevs.mdx",
+    "git/objects.md",
+    "git/interface.md",
+    "notion-export/_einführung in das git command-line-interface.md",
+    "slides/_slides-git-fuer-anfaenger.md",
+    "devsetup/windows-developers.mdx",
+    "drafts/hands-on-git.mdx",
+    "drafts/test.md",
+    "drafts/_modernes-unterrichten.md",
+    "local/_hands-on arbeiten mit git.md",
+    "drafts/_grid.md",
     "drafts/_astro-db.md",
+    "drafts/_Git installieren.md",
+    "webentwicklung/websites-for-webdevs.mdx",
+    "devsetup/vscode-sqltools.md",
     "drafts/_devtools-webdev.md",
     "drafts/_meeting-14-5-24.md",
     "linux/linux-paketmanagement.mdx",
@@ -176,7 +187,6 @@
     "assets/webentwicklung/idk-lol (2)",
     "assets/webentwicklung/idk-lol",
     "assets/webentwicklung/idk-lol (4)",
-    "webentwicklung/guide/html/1 3 html-elemente/132par~1/idk-lol (4)",
     "webentwicklung/_guide/_html.md",
     "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/arrays.md",
     "webentwicklung/_guide/html/1 3 html-elemente/formulare.md",
@@ -188,14 +198,6 @@
     "webentwicklung/_guide/wissensabfragen/javascript - wissensabfrage/code-b~1.MD",
     "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/schleifen.md",
     "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/concatenation.md",
-    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/strings.md",
-    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/numbers.md",
-    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/operations.md",
-    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/semicolons.md",
-    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/deklarationen.md",
-    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/types.md",
-    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/reservierte-keywords.md",
-    "webentwicklung/_guide/javascript/_geschichte-javascript.md",
-    "webentwicklung/_guide/javascript/_javascript-grundlagen.md"
+    "webentwicklung/_guide/javascript/1 1 javascript - grundlagen/strings.md"
   ]
 }
